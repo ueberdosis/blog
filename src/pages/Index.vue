@@ -12,7 +12,7 @@
       <p>
         {{ edge.node.teaser }}
       </p>
-      <g-link :to="edge.node.fileInfo.name">
+      <g-link :to="edge.node.path">
         Read
       </g-link>
     </div>
@@ -22,15 +22,13 @@
 
 <page-query>
 query {
-  posts: allBlogPost {
+  posts: allPost {
     edges {
       node {
         id
         title
         teaser
-        fileInfo {
-          name
-        }
+        path
       }
     }
   }
@@ -38,9 +36,6 @@ query {
 </page-query>
 
 <script>
-
-
-
 export default {
   metaInfo: {
     title: 'Hello, world!'

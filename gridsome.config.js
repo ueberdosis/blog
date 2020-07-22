@@ -5,12 +5,13 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Blog',
+  siteName: 'überdosis Blog',
+  siteUrl: 'https://blog.ueber.io',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
       options: {
-        typeName: 'BlogPost',
+        typeName: 'Post',
         baseDir: './content/blog',
         path: '*.md'
       }
@@ -22,6 +23,6 @@ module.exports = {
     }
   },
   templates: {
-    BlogPost: '/:fileInfo__name'
+    Post: '/post/:slug'
   }
 }
