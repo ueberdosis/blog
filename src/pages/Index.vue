@@ -10,6 +10,9 @@
         {{ edge.node.title }}
       </h2>
       <p>
+        {{ edge.node.date }}
+      </p>
+      <p>
         {{ edge.node.teaser }}
       </p>
       <g-link :to="edge.node.path">
@@ -22,26 +25,19 @@
 
 <page-query>
 query {
-  posts: allPost {
+  posts: allPost(sortBy: "date", order: DESC) {
     edges {
       node {
         id
         title
         teaser
+        date(format: "YYYY-MM-DD")
         path
       }
     }
   }
 }
 </page-query>
-
-<script>
-export default {
-  metaInfo: {
-    title: 'Hello, world!'
-  }
-}
-</script>
 
 <style>
 .home-links a {
