@@ -5,8 +5,8 @@
 </template>
 
 <page-query>
-query {
-  post: post(path: "/post/test") {
+query($path: String!) {
+  post: post(path: $path) {
     id
     title
     content
