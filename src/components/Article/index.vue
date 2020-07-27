@@ -6,7 +6,7 @@
             </h1>
             <p class="c-article__meta">
                 <time :datetime="publishedAt">
-                    {{ formattedPublishedAt }}
+                    Published {{ formattedPublishedAt }}
                 </time>
             </p>
         </header>
@@ -18,6 +18,8 @@
 </template>
 
 <script>
+import moment from 'moment'
+
 export default {
     props: {
         title: {
@@ -36,7 +38,7 @@ export default {
 
     computed: {
         formattedPublishedAt() {
-            return this.publishedAt
+            return moment(this.publishedAt).format('MMM Do, YYYY')
         },
     }
 }
