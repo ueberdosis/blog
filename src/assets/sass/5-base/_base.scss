@@ -1,0 +1,44 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	-webkit-touch-callout: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+:root {
+  --text: 0, 0, 0;
+  --background: 255, 255, 255;
+  --opacity-light: 0.1;
+  --opacity-x-light: 0.06;
+
+  @media (prefers-color-scheme: dark) {
+    --text: 255, 255, 255;
+    --background: 0, 0, 0;
+    --opacity-light: 0.15;
+    --opacity-x-light: 0.09;
+  }
+}
+
+

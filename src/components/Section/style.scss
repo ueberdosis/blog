@@ -1,0 +1,17 @@
+.c-section {
+
+    &__inner {
+      max-width: 40rem;
+      margin: 0 auto;
+      padding: 1.5rem;
+
+      @media (min-width: 500px) {
+        padding: 3rem;
+      }
+    }
+
+    & + & > &__inner {
+      padding-top: 0;
+    }
+
+  }

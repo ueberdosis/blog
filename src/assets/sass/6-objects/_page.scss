@@ -1,0 +1,28 @@
+.o-page {
+  height: 100%;
+
+  &__inner {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    overflow: hidden;
+  }
+
+  &__header {
+    flex: none;
+  }
+
+  &__title {
+    text-decoration: none;
+  }
+
+  &__content {
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__footer {
+    flex: none;
+  }
+}

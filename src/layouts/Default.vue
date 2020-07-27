@@ -1,12 +1,30 @@
 <template>
-  <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-      </strong>
-    </header>
-    <slot/>
-  </div>
+    <div class="o-page">
+      <div class="o-page__inner">
+        <header class="o-page__header">
+          <!-- @include('partials.page-header.index') -->
+
+          <g-link to="/">{{ $static.metadata.siteName }}</g-link>
+
+        </header>
+        <main class="o-page__content">
+          <!-- @isset($user)
+            @component('partials.section.index')
+              <a class="o-page__title" href="{{ $user->url($domain) }}">
+                {{ $user->setting('title', $user->username) }}
+              </a>
+            @endcomponent
+          @endisset
+          @yield('content') -->
+
+          <slot/>
+
+        </main>
+        <footer class="o-page__footer">
+          <!-- @include('partials.page-footer.index') -->
+        </footer>
+      </div>
+    </div>
 </template>
 
 <static-query>
@@ -17,30 +35,4 @@ query {
 }
 </static-query>
 
-<style>
-body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
-  line-height: 1.5;
-}
-
-.layout {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
-}
-
-.nav__link {
-  margin-left: 20px;
-}
-</style>
+<style lang="scss" src="~/assets/sass/main.scss"></style>

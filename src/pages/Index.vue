@@ -1,37 +1,35 @@
 <template>
   <Layout>
 
-    <h1>
-      Blog
-    </h1>
-
-    <div v-for="edge in $page.posts.edges" :key="edge.node.id">
-      <h2>
-        {{ edge.node.title }}
-      </h2>
-      <p>
-        {{ edge.node.date }}
-      </p>
-      <p>
-        {{ edge.node.teaser }}
-      </p>
-      <g-link :to="edge.node.path">
-        Read
-      </g-link>
-    </div>
+    <Section>
+      <div v-for="edge in $page.posts.edges" :key="edge.node.id">
+        <h2>
+          {{ edge.node.title }}
+        </h2>
+        <p>
+          {{ edge.node.date }}
+        </p>
+        <p>
+          {{ edge.node.teaser }}
+        </p>
+        <g-link :to="edge.node.path">
+          Read
+        </g-link>
+      </div>
+    </Section>
 
   </Layout>
 </template>
 
 <page-query>
 query {
-  posts: allPost(sortBy: "date", order: DESC) {
+  posts: allPost(sortBy: "published_at", order: DESC) {
     edges {
       node {
         id
         title
         teaser
-        date(format: "YYYY-MM-DD")
+        published_at(format: "YYYY-MM-DD")
         path
       }
     }
@@ -39,8 +37,3 @@ query {
 }
 </page-query>
 
-<style>
-.home-links a {
-  margin-right: 1rem;
-}
-</style>
