@@ -21,7 +21,7 @@
 
         </main>
         <footer class="o-page__footer">
-          <!-- @include('partials.page-footer.index') -->
+          <PageFooter />
         </footer>
       </div>
     </div>
@@ -36,3 +36,15 @@ query {
 </static-query>
 
 <style lang="scss" src="~/assets/sass/main.scss"></style>
+
+<script>
+import PageFooter from '@/components/PageFooter'
+
+export default {
+
+  components: {
+    PageFooter,
+  },
+
+}
+</script>
