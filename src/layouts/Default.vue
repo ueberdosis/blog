@@ -1,21 +1,12 @@
 <template>
     <div class="o-page">
       <div class="o-page__inner">
-        <header class="o-page__header">
-          <!-- @include('partials.page-header.index') -->
-
-          <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-
-        </header>
         <main class="o-page__content">
-          <!-- @isset($user)
-            @component('partials.section.index')
-              <a class="o-page__title" href="{{ $user->url($domain) }}">
-                {{ $user->setting('title', $user->username) }}
-              </a>
-            @endcomponent
-          @endisset
-          @yield('content') -->
+          <Section>
+            <g-link to="/" class="o-page__title">
+              {{ $static.metadata.siteName }}
+            </g-link>
+          </Section>
 
           <slot/>
 
@@ -39,11 +30,13 @@ query {
 
 <script>
 import PageFooter from '@/components/PageFooter'
+import Section from '@/components/Section'
 
 export default {
 
   components: {
     PageFooter,
+    Section,
   },
 
 }
