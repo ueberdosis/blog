@@ -41,6 +41,20 @@ export default {
   metaInfo() {
     return {
       title: 'Home',
+      meta: [
+        {
+          property: 'og:title',
+          content: 'überdosis',
+        },
+        {
+          name: 'description',
+          content: 'A digital product design agency, building own products & working for clients.',
+        },
+        {
+          property: 'og:description',
+          content: 'A digital product design agency, building own products & working for clients.',
+        },
+      ],
     }
   },
 
