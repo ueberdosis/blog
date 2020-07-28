@@ -1,20 +1,22 @@
 <template>
-  <article class="c-article">
-    <header class="c-article__header">
-      <h1 class="c-article__title">
-        {{ title }}
-      </h1>
-      <p class="c-article__meta">
+  <article class="c-article-preview">
+    <g-link
+      :to="link"
+      class="c-article-preview__link"
+    >
+      <h2 class="is-h3 c-article-preview__title">
+        {{ title }}
+      </h2>
+      <p class="c-article-preview__content">
+        {{ teaser }}
+      </p>
+      <p class="c-article-preview__meta">
         Published
         <time :datetime="publishedAt">
           {{ formattedPublishedAt }}
         </time>
       </p>
-    </header>
-
-    <section class="c-article__content" v-html="content">
-
-    </section>
+    </g-link>
   </article>
 </template>
 
@@ -27,7 +29,11 @@ export default {
       default: null,
       type: String,
     },
-    content: {
+    teaser: {
+      default: null,
+      type: String,
+    },
+    link: {
       default: null,
       type: String,
     },

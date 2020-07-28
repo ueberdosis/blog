@@ -1,0 +1,19 @@
+.c-article {
+    &__header {
+      margin-bottom: 1.5rem;
+
+      @media (min-width: 500px) {
+        margin-bottom: 3rem;
+      }
+    }
+
+    &__title {
+      margin: 0;
+    }
+
+    &__meta {
+      margin: 0.5rem 0 0 0;
+      --text-color: rgba(var(--text), 0.4);
+      color: var(--text-color);
+    }
+  }

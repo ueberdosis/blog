@@ -2,20 +2,15 @@
   <Layout>
 
     <Section>
-      <div v-for="edge in $page.posts.edges" :key="edge.node.id">
-        <h2>
-          {{ edge.node.title }}
-        </h2>
-        <p>
-          {{ edge.node.date }}
-        </p>
-        <p>
-          {{ edge.node.teaser }}
-        </p>
-        <g-link :to="edge.node.path">
-          Read
-        </g-link>
-      </div>
+
+      <ArticlePreview
+        v-for="edge in $page.posts.edges" :key="edge.node.id"
+        :title="edge.node.title"
+        :publishedAt="edge.node.published_at"
+        :teaser="edge.node.teaser"
+        :link="edge.node.path"
+      />
+
     </Section>
 
   </Layout>
@@ -29,11 +24,25 @@ query {
         id
         title
         teaser
-        published_at(format: "YYYY-MM-DD")
+        published_at
         path
       }
     }
   }
 }
 </page-query>
+
+<script>
+import ArticlePreview from '@/components/ArticlePreview'
+import Section from '@/components/Section'
+
+export default {
+
+  components: {
+    ArticlePreview,
+    Section,
+  },
+
+}
+</script>
 
