@@ -36,10 +36,6 @@ module.exports = {
           enabled: true,
           output: '/feed.xml'
         },
-        atom: {
-          enabled: true,
-          output: '/feed.atom'
-        },
         json: {
           enabled: true,
           output: '/feed.json'

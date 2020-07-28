@@ -4,6 +4,21 @@
 import DefaultLayout from '~/layouts/Default.vue'
 
 export default function (Vue, { router, head, isClient }) {
+
+  head.link.push({
+    rel: 'alternate',
+    type: 'application/rss+xml',
+    title: 'überdosis blog',
+    href: 'https://blog.ueber.io/feed.xml'
+  })
+
+  head.link.push({
+    rel: 'alternate',
+    type: 'application/json',
+    title: 'überdosis blog',
+    href: 'https://blog.ueber.io/feed.json'
+  })
+
   router.beforeEach((to, _from, next) => {
     head.meta.push({
       key: 'og:url',
