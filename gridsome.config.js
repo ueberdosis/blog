@@ -20,7 +20,7 @@ module.exports = {
   siteName: 'überdosis blog',
   siteUrl: 'https://blog.ueber.io/',
   titleTemplate: '%s',
-  // icon: './src/assets/images/favicon.ico',
+  icon: './src/assets/images/favicon.png',
   port: 3000,
   plugins: [
     {
