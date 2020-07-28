@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'überdosis blog',
   siteUrl: 'https://blog.ueber.io/',
-  titleTemplate: '%s',
+  titleTemplate: '%s – überdosis blog',
   icon: './src/assets/images/favicon.png',
   port: 3000,
   plugins: [

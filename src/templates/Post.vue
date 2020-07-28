@@ -6,7 +6,6 @@
         :content="$page.post.content"
         :published-at="$page.post.published_at"
       />
-      <!-- <div v-html="$page.post.content"></div> -->
     </Section>
   </Layout>
 </template>
@@ -16,6 +15,7 @@ query($path: String!) {
   post: post(path: $path) {
     id
     title
+    teaser
     content
     published_at
   }
@@ -27,6 +27,26 @@ import Article from '@/components/Article'
 import Section from '@/components/Section'
 
 export default {
+
+  metaInfo() {
+    return {
+      title: this.$page.post.title,
+      meta: [
+        {
+          property: 'og:title',
+          content: this.$page.post.title,
+        },
+        {
+          name: 'description',
+          content: this.$page.post.teaser,
+        },
+        {
+          property: 'og:description',
+          content: this.$page.post.teaser,
+        },
+      ],
+    }
+  },
 
   components: {
     Article,

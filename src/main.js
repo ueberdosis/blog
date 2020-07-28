@@ -14,11 +14,6 @@ export default function (Vue, { router, head, isClient }) {
     content: 'überdosis',
   })
 
-  head.meta.push({
-    property: 'og:url',
-    content: 'https://blog.ueber.io',
-  })
-
   // head.meta.push({
   //   property: 'og:image',
   //   content: 'https://blog.ueber.io/opengraph.png',
@@ -32,6 +27,15 @@ export default function (Vue, { router, head, isClient }) {
   head.meta.push({
     name: 'twitter:card',
     content: 'summary_large_image',
+  })
+
+  router.beforeEach((to, _from, next) => {
+    head.meta.push({
+      key: 'og:url',
+      name: 'og:url',
+      content: 'https://blog.ueber.io/' + to.path,
+    })
+    next()
   })
 
   // Set default layout as a global component
