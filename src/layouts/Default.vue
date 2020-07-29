@@ -15,6 +15,9 @@
           <PageFooter />
         </footer>
       </div>
+
+      <script async defer src="https://data.blog.ueber.io/latest.js"></script>
+      <noscript><img src="https://data.blog.ueber.io/noscript.gif" alt=""/></noscript>
     </div>
 </template>
 
