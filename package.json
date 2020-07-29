@@ -12,6 +12,7 @@
     "@gridsome/transformer-remark": "^0.6.1",
     "gridsome": "^0.7.0",
     "gridsome-plugin-feed": "^1.0.2",
+    "gridsome-plugin-simple-analytics": "^1.1.0",
     "moment": "^2.27.0"
   },
   "devDependencies": {

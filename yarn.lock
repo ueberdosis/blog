@@ -4324,6 +4324,13 @@ gridsome-plugin-feed@^1.0.2:
     micromatch "^4.0.2"
     moment "^2.24.0"
 
+gridsome-plugin-simple-analytics@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/gridsome-plugin-simple-analytics/-/gridsome-plugin-simple-analytics-1.1.0.tgz#3ad44908ac767c603943ddc928d09e23304edee2"
+  integrity sha512-LiONYi1hRlSEC15UfDnDahbMowo0diWFHyAdzKNKWJFDBf31Z06DnHbZiQyRlGJNF18MqJRJXQIa0xwo6zehQw==
+  dependencies:
+    simple-analytics-vue "^1.1.0"
+
 gridsome@^0.7.0:
   version "0.7.19"
   resolved "https://registry.yarnpkg.com/gridsome/-/gridsome-0.7.19.tgz#3d67fb66c80b53101c750e870b076b3694152ec9"
@@ -8095,6 +8102,13 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.3.tgz#a1410c2edd8f077b08b4e253c8eacfcaf057461c"
   integrity sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==
+
+simple-analytics-vue@^1.1.0:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/simple-analytics-vue/-/simple-analytics-vue-1.1.1.tgz#1d0ee7f31d4b341442e35dfbbef57cc0fb4bb0e7"
+  integrity sha512-vdp1hdT9MhA1iTeri5A/KfwHSlc060MNpeydZmugXiuVDOFCMPGiNAPuFh2Vn18Ia2pMfPvzCrKpQ9At+fm22w==
+  dependencies:
+    vue "^2.6.10"
 
 simple-concat@^1.0.0:
   version "1.0.1"

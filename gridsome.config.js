@@ -20,6 +20,12 @@ module.exports = {
       }
     },
     {
+      use: 'gridsome-plugin-simple-analytics',
+      options: {
+        domain: 'data.blog.ueber.io',
+      }
+    },
+    {
       use: 'gridsome-plugin-feed',
       options: {
         // Required: array of `GraphQL` type names you wish to include
