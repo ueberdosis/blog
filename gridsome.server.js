@@ -6,7 +6,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 const fs = require('fs')
-const { createCanvas } = require('canvas')
+const { createCanvas, registerFont } = require('canvas')
+registerFont('fonts/Inter-Medium.otf', { family: 'Inter' })
 
 module.exports = function (api) {
   api.loadSource(({ addCollection }) => {
