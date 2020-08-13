@@ -55,23 +55,23 @@ export default {
 
         // Twitter
         {
-          property: 'twitter:title',
+          name: 'twitter:title',
           content: this.$page.post.title,
         },
         {
-          property: 'twitter:description',
+          name: 'twitter:description',
           content: this.$page.post.teaser,
         },
         {
-          property: 'twitter:card',
+          name: 'twitter:card',
           content: 'summary_large_image',
         },
         {
-          property: 'twitter:image',
+          name: 'twitter:image',
           content: `https://blog.ueber.io/images/${this.$page.post.slug}.png`,
         },
         {
-          property: 'twitter:site',
+          name: 'twitter:site',
           content: '@_ueberdosis',
         },
       ],
