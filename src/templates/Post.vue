@@ -33,13 +33,16 @@ export default {
     return {
       title: this.$page.post.title,
       meta: [
-        {
-          property: 'og:title',
-          content: this.$page.post.title,
-        },
+        // General
         {
           name: 'description',
           content: this.$page.post.teaser,
+        },
+
+        // OpenGraph
+        {
+          property: 'og:title',
+          content: this.$page.post.title,
         },
         {
           property: 'og:description',
@@ -47,6 +50,24 @@ export default {
         },
         {
           property: 'og:image',
+          content: `https://blog.ueber.io/images/${this.$page.post.slug}.png`,
+        },
+
+        // Twitter
+        {
+          property: 'twitter:title',
+          content: this.$page.post.title,
+        },
+        {
+          property: 'twitter:description',
+          content: this.$page.post.teaser,
+        },
+        {
+          property: 'twitter:card',
+          content: 'summary_large_image',
+        },
+        {
+          property: 'twitter:image',
           content: `https://blog.ueber.io/images/${this.$page.post.slug}.png`,
         },
       ],
