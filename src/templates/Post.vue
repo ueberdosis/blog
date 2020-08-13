@@ -70,6 +70,10 @@ export default {
           property: 'twitter:image',
           content: `https://blog.ueber.io/images/${this.$page.post.slug}.png`,
         },
+        {
+          property: 'twitter:site',
+          content: '@_ueberdosis',
+        },
       ],
     }
   },
