@@ -16,6 +16,7 @@ query($path: String!) {
     id
     title
     teaser
+    slug
     content
     published_at
   }
@@ -43,6 +44,10 @@ export default {
         {
           property: 'og:description',
           content: this.$page.post.teaser,
+        },
+        {
+          property: 'og:image',
+          content: `https://blog.ueber.io/images/${this.$page.post.slug}.png`,
         },
       ],
     }
