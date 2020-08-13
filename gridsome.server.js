@@ -53,7 +53,14 @@ module.exports = function (api) {
     context.textBaseline = 'top'
     context.fillStyle = '#ffffff'
     context.font = 'medium 64pt Inter'
-    wrapText(context, title, border, border + 38 + border, width - border - border, lineHeight);
+    wrapText(context, title, border, border + 60 + border, width - border - border, lineHeight)
+
+    // reading time
+    const readingTime = calculateReadingTime(options.content)
+    context.textBaseline = 'bottom'
+    context.fillStyle = '#666666'
+    context.font = 'medium 38pt Inter'
+    context.fillText(readingTime, border, height - border)
 
     // store
     const buffer = canvas.toBuffer('image/png')
@@ -64,21 +71,36 @@ module.exports = function (api) {
 }
 
 const wrapText = function(context, text, x, y, maxWidth, lineHeight) {
-  var words = text.split(' ');
-  var line = '';
+  var words = text.split(' ')
+  var line = ''
 
   for(var n = 0; n < words.length; n++) {
-    var testLine = line + words[n] + ' ';
-    var metrics = context.measureText(testLine);
-    var testWidth = metrics.width;
+    var testLine = line + words[n] + ' '
+    var metrics = context.measureText(testLine)
+    var testWidth = metrics.width
     if (testWidth > maxWidth && n > 0) {
-      context.fillText(line, x, y);
-      line = words[n] + ' ';
-      y += lineHeight;
+      context.fillText(line, x, y)
+      line = words[n] + ' '
+      y += lineHeight
     }
     else {
-      line = testLine;
+      line = testLine
     }
   }
-  context.fillText(line, x, y);
+  context.fillText(line, x, y)
+}
+
+const calculateReadingTime = function(text) {
+  const wordsPerMinute = 200
+  const textLength = text.split(' ').length
+
+  if(textLength > 0){
+    const value = Math.ceil(textLength / wordsPerMinute)
+
+    if (value === 1) {
+      return `${value} minute`
+    }
+
+    return `${value} minutes`
+  }
 }
