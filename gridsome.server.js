@@ -7,7 +7,8 @@
 
 const fs = require('fs')
 const { createCanvas, registerFont } = require('canvas')
-registerFont('fonts/Inter-Medium.otf', { family: 'Inter' })
+registerFont('fonts/Inter-Regular.otf', { family: 'InterRegular' })
+registerFont('fonts/Inter-Medium.otf', { family: 'InterMedium' })
 
 module.exports = function (api) {
   api.loadSource(({ addCollection }) => {
@@ -45,7 +46,7 @@ module.exports = function (api) {
     const author = options.author
     context.textBaseline = 'top'
     context.fillStyle = '#666666'
-    context.font = 'medium 38pt Inter'
+    context.font = '38pt InterRegular'
     context.fillText(author, border, border)
 
     // title
@@ -53,14 +54,14 @@ module.exports = function (api) {
     const lineHeight = 96
     context.textBaseline = 'top'
     context.fillStyle = '#ffffff'
-    context.font = 'medium 64pt Inter'
+    context.font = '64pt InterMedium'
     wrapText(context, title, border, border + 60 + border, width - border - border, lineHeight)
 
     // reading time
     const readingTime = calculateReadingTime(options.content)
     context.textBaseline = 'bottom'
     context.fillStyle = '#666666'
-    context.font = 'medium 38pt Inter'
+    context.font = '38pt InterRegular'
     context.fillText(readingTime, border, height - border)
 
     // store
