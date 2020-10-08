@@ -27,8 +27,8 @@ module.exports = function (api) {
 
     opengraphImage = `static/images/${options.slug}.png`
 
-    console.log(`Found Post “${options.title}” in ${options.internal.origin} …`)
-    console.log(`Generate an OpenGraph image …`)
+    // console.log(`Found Post “${options.title}” in ${options.internal.origin} …`)
+    // console.log(`Generate an OpenGraph image …`)
 
     const width = 1200
     const height = 630
