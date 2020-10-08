@@ -5,6 +5,7 @@
         :title="$page.post.title"
         :content="$page.post.content"
         :published-at="$page.post.published_at"
+        :author="$page.post.author"
       />
     </Section>
   </Layout>
@@ -19,6 +20,7 @@ query($path: String!) {
     slug
     content
     published_at
+    author
   }
 }
 </page-query>

@@ -16,4 +16,8 @@
       --text-color: rgba(var(--text), 0.4);
       color: var(--text-color);
     }
+
+    &__author {
+      margin: 1rem 0 0 0;
+    }
   }

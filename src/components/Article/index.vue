@@ -12,9 +12,11 @@
       </p>
     </header>
 
-    <section class="c-article__content" v-html="content">
+    <section class="c-article__content" v-html="content" />
 
-    </section>
+    <footer class="c-article__author" v-if="author">
+      – {{ author }}
+    </footer>
   </article>
 </template>
 
@@ -24,6 +26,10 @@ import moment from 'moment'
 export default {
   props: {
     title: {
+      default: null,
+      type: String,
+    },
+    author: {
       default: null,
       type: String,
     },
