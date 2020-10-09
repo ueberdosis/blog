@@ -47,4 +47,4 @@ If you have - like I do - the feeling in your gut that not releasing things like
 
 That said: If you believe in your thing, release it! Even if it’s crappy. You can do it! But don’t feel ashamed not to release something. It’s okay too.
 
-<small>Thanks to [Titus](https://twitter.com/wooorm) for building the excellent unified js ecosystem that we use everywhere (even to process the blog post you’re currently reading). And thanks to [Julian Lehr](https://twitter.com/lehrjulian), [Marcel Pociot](https://twitter.com/marcelpociot) and [Jack McDade](https://twitter.com/jackmcdade) for testing matter.md early on.</small>
+<small>Thanks to [Titus](https://twitter.com/wooorm) for building the excellent unified js ecosystem that we use everywhere (even to process the blog post you’re currently reading). Thanks to [Marijn Haverbeke](https://twitter.com/MarijnJH) for making CodeMirror & ProseMirror, both are also excellent tools we still use a ton. And thanks to [Julian Lehr](https://twitter.com/lehrjulian), [Marcel Pociot](https://twitter.com/marcelpociot) and [Jack McDade](https://twitter.com/jackmcdade) for testing matter.md early on.</small>
