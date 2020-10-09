@@ -16,7 +16,7 @@ module.exports = {
       options: {
         typeName: 'Post',
         baseDir: './content/blog',
-        path: '*.md'
+        path: '**/*.md'
       }
     },
     {

@@ -5,3 +5,8 @@
 @import '5-base/index';
 @import "6-objects/index";
 @import "7-components/index";
+
+img {
+  border-radius: 5px;
+  margin: 2rem 0;
+}
