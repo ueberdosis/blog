@@ -1,10 +1,12 @@
 ---
-title: Our Plan for Tiptap 2
+title: Our Plan for tiptap 2
 teaser: With tiptap we built a renderless text editor for the Web. Today, it’s already used by thousands of developers, and we plan to release a completely new version of it. Here’s everything you need to know about the current state and the current roadmap.
 author: Hans Pagel
 slug: our-plan-for-tiptap-2
 published_at: 2020-10-12
 ---
+
+![a screenshot of the matter.md app icon](./image-of-tiptap.png)
 
 With tiptap we built a renderless text editor for the Web. Today, it’s already used by thousands of developers, and we plan to release a completely new version of it. Here’s everything you need to know about the current state and the current roadmap.
 
