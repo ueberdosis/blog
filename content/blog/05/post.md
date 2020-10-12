@@ -28,6 +28,8 @@ Maybe, they think they actually can make it if they do a few things differently.
 
 Of course, there are also the people that know it’s impossible. They just lie to their future clients. But let’s forget about them. I don’t think a lie is a good start for any kind of relationship.
 
+From the beginning, we make our schedule transparent for our clients, so there is no surprise for them. That’s what we think is a reasonable basis for a relationship.
+
 ## Enjoying a calm workspace.
 If you already nodded a few times on your way through this post, let’s agree on the ideal week in a calm working environment:
 
@@ -68,12 +70,14 @@ We plan for days only. There must not be a single day, where someone has two dif
 ### 2. Eight hours is too much.
 Depending on the contract, role, and experience of a team member, we schedule 4-6 hours a day. We don’t expect anyone to start their day, work 8 hours straight, and call it a day then. It’s not how it works, so we don’t plan that way.
 
-If someone can do more on a specific day, fine.
+We all need some time in-between. Whether it’s to slack around, ask someone how the recent holiday has been, watch a video, or whatever. That’s how we all do it—no need to feel bad because of that.
+
+If someone can do more on a specific day, fine. But it’s not what we expect.
 
 ### 3. Make it transparent.
-Anyone has access and can look at the schedule for the whole team. Anyone can ask to change the plans.
+Anyone has access and can look at the schedule for the whole team. We schedule new projects with the project team, and anyone can ask to change the plans anytime.
 
-But there is only one person responsible (and able) to change the schedule. We started to have three people doing that, but that led to chaos a few times. One overlooking all priorities is enough for our team of eleven.
+But there is only one person responsible (and able) to change the schedule in the tool. We started to have multiple people doing that, but that led to chaos a few times. One person overlooking all priorities is enough for our team of eleven.
 
 ### 4. Plan months ahead to avoid surprises.
 Most of the time, our schedule reaches as far as two months in the future.
@@ -81,11 +85,13 @@ Most of the time, our schedule reaches as far as two months in the future.
 We plan new projects as early as possible, most of the time before sending an offer, in all cases before it’s commissioned.
 
 ### 5. Obey the schedule.
-We don’t expect the team members to adhere to the exact days in the schedule. If we scheduled something for Monday, you’re free to work on it on Friday.
+We don’t expect the team members to adhere to the exact days in the schedule. If we scheduled something for Monday, you’re free to work on it on Friday. However, we try to put all project members of the project on the same day, so it’s easier to reach out to others that probably work on the same thing simultaneously.
 
-We try to put all project members of the project on the same day, so it’s easier to reach out to others that probably work on the same thing simultaneously. And we expect people to actually use that amount of days on the scheduled projects. If that doesn’t make sense, everyone can reach out, and we try to find a solution that works better.
+And we expect people to actually use that amount of days on the scheduled projects. If that doesn’t make sense, everyone can reach out anytime, and we try to find a solution that works better.
 
-We don’t interrupt someone with a surprise project or force someone to jump to a different project. That’s an interruption, and you should know what we think about that by now.
+We try to not interrupt someone with a surprise project or force someone to jump to a different project. You should know what we think about interruptions by now.
+
+There are situations where we need to act quickly, for example, a *critical* bug in a project. We’ll jump in on that quickly. And now and then, we need the expertise from the team for new inquiries. Most of the time that works out, as we don’t schedule the whole day anyway.
 
 ## For us, it’s mostly about respect.
 We do all we can to be work respectful together. We value the time and concentration of other team members. We’re thankful for every creative who works with us, and we want to show that.
