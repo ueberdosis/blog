@@ -46,7 +46,7 @@ module.exports = function (api) {
     const author = options.author
     context.textBaseline = 'top'
     context.fillStyle = '#666666'
-    context.font = '38pt InterRegular'
+    context.font = '32pt InterRegular'
     context.fillText(author, border, border)
 
     // title
@@ -54,14 +54,14 @@ module.exports = function (api) {
     const lineHeight = 96
     context.textBaseline = 'top'
     context.fillStyle = '#ffffff'
-    context.font = '64pt InterMedium'
+    context.font = '58pt InterMedium'
     wrapText(context, title, border, border + 60 + border, width - border - border, lineHeight)
 
     // reading time
     const readingTime = calculateReadingTime(options.content)
     context.textBaseline = 'bottom'
     context.fillStyle = '#666666'
-    context.font = '38pt InterRegular'
+    context.font = '32pt InterRegular'
     context.fillText(readingTime, border, height - border)
 
     // store
