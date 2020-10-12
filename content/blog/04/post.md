@@ -45,7 +45,7 @@ editor
   .focus('end')
   .insertText('at the end')
   .insertNewLine()
-  .insertText('new line')
+  .insertText('on a new line')
   .toggleNode('heading', { level: 2 })
   .run()
  ```
