@@ -88,9 +88,7 @@ We try to put all project members of the project on the same day, so it’s easi
 We don’t interrupt someone with a surprise project or force someone to jump to a different project. That’s an interruption, and you should know what we think about that by now.
 
 ## For us, it’s mostly about respect.
-I wanted to share how we work with you. Though you shouldn’t think we’re perfect.
-
-For us, it’s mostly about respect. We do all we can to be work respectful together. We value the time and concentration of other team members. We’re thankful for every creative who works with us, and we want to show that.
+We do all we can to be work respectful together. We value the time and concentration of other team members. We’re thankful for every creative who works with us, and we want to show that.
 
 Ah, and one more thing: If you like what you’re reading and want to join us, we’re looking for a [Frontend Engineer (f/m/*)](https://ueberdosis.io/frontend-engineer) and a [PHP/Laravel Developer (f/m/*)](https://ueberdosis.io/php-developer) in Berlin, Germany.
 
