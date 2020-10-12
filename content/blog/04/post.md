@@ -9,7 +9,7 @@ published_at: 2020-10-12
 With tiptap we built a renderless text editor for the Web. Today, it’s already used by thousands of developers, and we plan to release a completely new version of it. Here’s everything you need to know about the current state and the current roadmap.
 
 ## Who’s using it?
-First of all, let me share a few impressive numbers with you. The repository has 8,000 stars on GitHub. Notable companies like GitLab and Statamic (to name just a few) use tiptap in their software. The (currently awful) documentation has more than 60k page views/month. The package was downloaded 500k times in 2019, and already 2.7m times in 2020. Isn’t that’s crazy?
+First of all, let me share a few impressive numbers with you. The repository has 8,000 stars on GitHub. Notable companies like GitLab and Statamic (to name just a few) use tiptap in their software. The (currently awful) documentation has more than 60k page views/month. The package was downloaded 500k times in 2019, and already 2.7m times in 2020. Isn’t that crazy?
 
 Let’s add numbers people usually don’t talk much about: We put in a few hundred hours to develop the package, we don’t know the exact number, but it’s probably something like 500 hours. And we got a few donations from kind humans, I think it’s something like $200 in total. We recently set up GitHub sponsorship and now have 15 sponsors (so cool!), giving us around $160/month. We are very, very thankful for every donation, and for every sponsor, it’s a huge motivation for us to work on tiptap.
 
