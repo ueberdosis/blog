@@ -34,7 +34,7 @@ Also, there are already more than 40 interactive demos added to the documentatio
 ### 4. Decoupled the core from Vue.js.
 The first version was developed for Vue.js. Actually, we didn’t use much of the framework in the editor. For tiptap 2, we were able to decouple that part from the core. Et voilá, tiptap 2 is framework-agnostic.
 
-Yes, you will be able to use it with other frameworks, for example, with React. But we’ll definitely need time to make a port the Vue.js components and document that. We won’t rush that. Currently, all examples are based on Vue.js, so it’s basically like writing the whole documentation from scratch.
+Yes, you will be able to use it with other frameworks, for example, with React. But we’ll definitely need time to build React components and document them. We won’t rush that. Currently, all examples are based on Vue.js, so it’s basically like writing the whole documentation from scratch.
 
 ### 5. Let’s chain it.
 One of the cool new features are chainable commands. All commands can be joined to one call (and a single performant transaction) from now on. Let’s have a look at an example:
