@@ -6,7 +6,7 @@ slug: our-plan-for-tiptap-2
 published_at: 2020-10-12
 ---
 
-With tiptap we built a renderless text editor for the Web. Today, it’s already used by thousands of developers, and we plan to release a completely new version of it. Here’s everything you need to know about the current state and the current roadmap.
+With [tiptap](https://github.com/ueberdosis/tiptap) we built a renderless text editor for the Web. Today, it’s already used by thousands of developers, and we plan to release a completely new version of it. Here’s everything you need to know about the current state and the current roadmap.
 
 ## Who’s using it?
 First of all, let me share a few impressive numbers with you. The repository has 8,000 stars on GitHub. Notable companies like GitLab and Statamic (to name just a few) use tiptap in their software. The (currently awful) documentation has more than 60k page views/month. The package was downloaded 500k times in 2019, and already 2.7m times in 2020. Isn’t that crazy?
