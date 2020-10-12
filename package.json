@@ -19,6 +19,6 @@
   "devDependencies": {
     "node-sass": "^4.14.1",
     "poly-fluid-sizing": "^1.1.0",
-    "sass-loader": "^10.0.2"
+    "sass-loader": "^10.0.3"
   }
 }
