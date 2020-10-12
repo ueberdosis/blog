@@ -5,6 +5,7 @@ author: Hans Pagel
 slug: stopping-a-project
 published_at: 2020-10-09
 ---
+
 ![a screenshot of the matter.md app icon](./matter.md-app-icon.jpg)
 
 I always thought it’s a lousy reason not to publish something because you’re unhappy with the quality. From our experience with other projects (Hello Glyphfinder Windows version!), I learned: It’s a pretty good reason.
