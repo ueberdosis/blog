@@ -59,10 +59,10 @@ After feeling stuck for a while, I’ve built Frontend News, which aggregated ne
 Also, that experiment showed me that I don’t want to work too public. It feels stressful to write about every tiny step and is demotivating when there’s not enough feedback. I prefer to work on something until I’m (mostly) happy and share it then.
 
 ### 8. matter.md
-Matter had a few names and took a few directions already. It started as an online text editor, we merged it with the untitled blogging platform, we made it a macOS app, we tried to move it to the web again, but nothing really worked, so [we paused it in the end](https://blog.ueber.io/post/stopping-a-project/).
+Matter had a few names and took a few directions already. It started as an online text editor, we merged it with the untitled blogging platform, we made it a macOS app, we tried to move it to the web again, but nothing really worked, so [we paused it in the end](/post/stopping-a-project/).
 
 ### 9. tiptap 2
-tiptap is a text editor we built a while ago, and [we have big plans for version 2](https://blog.ueber.io/post/our-plan-for-tiptap-2/).
+tiptap is a text editor we built a while ago, and [we have big plans for version 2](/post/our-plan-for-tiptap-2/).
 
 We have no idea how to make money with it, but with millions of downloads, it’s the most successful project we’ve ever built. We enjoy working on it, so we follow that and see what it’ll bring us later.
 
