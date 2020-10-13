@@ -1,8 +1,8 @@
 ---
-title: Our Schedule
+title: The Schedule
 teaser: Let’s face it, as an agency, we sell our time to deliver creative work. We use scheduling to bring more calmness into our lives, while also increasing the quality of our work, and here’s how.
 author: Hans Pagel
-slug: our-schedule
+slug: the-schedule
 published_at: 2020-10-13
 ---
 
