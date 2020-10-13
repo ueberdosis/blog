@@ -33,7 +33,7 @@ From the beginning, we make our schedule transparent for our clients, so there i
 ## Enjoy a calm workspace.
 If you already nodded a few times on your way through this post, let’s agree on the ideal working environment:
 
-### A lof uninterrupted time
+### A lot of uninterrupted time
 The productivity killer number one is interruptions. Any meeting, call, and message can pull you out of your flow state. There is a lot everyone can do to get rid of those interruptions, like disabling notifications or closing communication tools before trying to get into the flow.
 
 There are also a few things you can respectfully do to improve the situation of others. Find an answer to your question in [our knowledge base](https://skara.io), collect your thoughts throughout the day, or just wait for a scheduled meeting in a few days. Most things can wait. I know you don’t believe me, but they can. Try it out!
