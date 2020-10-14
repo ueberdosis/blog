@@ -16,27 +16,27 @@ Let’s add numbers people usually don’t talk much about: We put in a few hund
 ## What changed already?
 But let’s talk about how we made tiptap 2 even more awesome already. I guess that’s why you’re here.
 
-### 1. A new home for tiptap.
+### 1) A new home for tiptap.
 First of all, we moved tiptap to our [überdosis GitHub organization](https://github.com/ueberdosis). [überdosis](https://twitter.com/_ueberdosis) is the agency we are both co-founders of and which is sponsoring the development currently. Without that kind of support, we won’t be able to work on tiptap.
 
-### 2. Hello TypeScript!
+### 2) Hello TypeScript!
 So many people asked us to add TypeScript definitions. We couldn’t ignore it anymore. We took a close look at TypeScript and finally decided – after months of fiddling around with it – to write tiptap (from scratch) using TypeScript. For us, it’s still a love-hate relationship, but you will definitely have a ton of advantages.
 
 As long as your IDE supports it (most do), you’re going to have a very nice autocomplete for the tiptap API. Some bugs will be pointed out early, without running the code. And we can render an auto-generated API reference from it, on top of the extensive documentation.
 
-### 3. Finally, everything is documented.
+### 3) Finally, everything is documented.
 The current documentation for tiptap is very lacking. We couldn’t take it anymore and made the documentation a priority instead of an afterthought.
 
 The packages, documentation, and website with examples that’s all the same (currently private) repository now. We’ve started to write about everything you can do with tiptap 2 early on and add content parallel to developing the described features. It pays out.
 
 Also, there are already more than 40 interactive demos added to the documentation, and we’re adding new ones every week. I’m sure you all will love the documentation for tiptap 2.
 
-### 4. Decoupled the core from Vue.js.
+### 4) Decoupled the core from Vue.js.
 The first version was developed for Vue.js. Actually, we didn’t use much of the framework in the editor. For tiptap 2, we were able to decouple that part from the core. Et voilá, tiptap 2 is framework-agnostic.
 
 Yes, you will be able to use it with other frameworks, for example, with React. But we’ll definitely need time to build React components and document them. We won’t rush that. Currently, all examples are based on Vue.js, so it’s basically like writing the whole documentation from scratch.
 
-### 5. Let’s chain it.
+### 5) Let’s chain it.
 One of the cool new features are chainable commands. All commands can be joined to one call (and a single performant transaction) from now on. Let’s have a look at an example:
 
 ```js
@@ -50,19 +50,19 @@ editor
   .run()
  ```
 
-### 6. It’s tested.
+### 6) It’s tested.
 The initial version of tiptap doesn’t have any real tests, leading to chaos again and again. We’re continually adding tests to the new code base and count 140 by now. We aim to have something like 1,000 over time. I think we can do that.
 
 The tests already helped us to find bugs early. For future contributions, it’ll be a huge time saver too.
 
-### 7. Improve the collaborative editing experience.
+### 7) Improve the collaborative editing experience.
 We always thought that collaborative editing is one of the coolest features of tiptap. I think we were already able to take our approach with tiptap 2 to a whole new level.
 
 The new implementation is based on [Y.js by Kevin Jahns](https://github.com/yjs/yjs) (who is also sponsoring us on GitHub). I don’t want to talk about too many details for now but believe me, it’s the coolest thing in that space.
 
 It’s still a complex topic, though. That’s why we are in the process of writing a very detailed guide on that.
 
-### 8. Rewriting all extensions.
+### 8) Rewriting all extensions.
 The following 19 extensions are rewritten for version 2 already: Blockquote, Bold, BulletList, Code, CodeBlock, Collaboration, Document, HardBreak, Heading, History, HorizontalRule, Italic, Link, ListItem, OrderedList, Paragraph, Strike, Text, and Underline.
 
 And we added two new ones: CollaborationCursor and Highlight. But more on that in a different post.
