@@ -100,4 +100,4 @@ We do everything we can to work together respectfully. We value the time and con
 
 One more thing: If you like what you’re reading and want to join us, we’re looking for a [Frontend Engineer (f/m/*)](https://ueberdosis.io/frontend-engineer) and a [PHP/Laravel Developer (f/m/*)](https://ueberdosis.io/php-developer) in Berlin, Germany.
 
-If you have any feedback or question, don’t hesitate to [hit me up on Twitter](https://twitter.com/hanspagel). Thanks for reading!
+If you have any feedback or question, don’t hesitate to [hit me up on Twitter](https://twitter.com/hanspagel/status/1316324140316528640). Thanks for reading!
