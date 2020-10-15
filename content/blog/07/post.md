@@ -63,6 +63,6 @@ Clients are mostly okay with that. There are still companies that don’t like i
 ## What works for you
 We had good and bad experiences with all the mentioned approaches to billing. We strive for respectful partnerships, and you can have that with all methods.
 
-Thanks for reading! I’m [writing a new blog post every day](/post/30-posts/). So if you have any questions, [let me know on Twitter](https://twitter.com/hanspagel). I’m happy to answer them in one of the next posts.
+Thanks for reading! I’m [writing a new blog post every day](/post/30-posts/). So if you have any questions, [let me know on Twitter](https://twitter.com/hanspagel/status/1316650135783378944). I’m happy to answer them in one of the next posts.
 
 <small>Thanks to Iván García, who asked me about all the above things on Twitter.</small>
