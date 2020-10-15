@@ -14,20 +14,20 @@ Luckily we improved things before that happened. I want to share a few of our ex
 Let’s talk about a few reasons why a fixed budget can hurt you or your company.
 
 ### 1) You don’t know how much time you’ll need.
-There is no way to know how much time creativity needs. If you think you do, you’re probably repeating the same steps over and over or doing some off the shelf work. If that’s the case, you can probably skip the whole post and stick to that works for you.
+There is no way to know how much time creativity needs. If you think you do, you’re probably repeating the same steps over and over or doing some off the shelf work. If that’s the case, you can probably skip the whole post and stick to what works for you.
 
-But if your clients asking to make something different from their competitors, something special for them, something unique, there is no way to know how long “unique” will take exactly in advance.
+But if your clients ask you to make something different from their competitors, something special for them, something unique, there is no way to know how long “unique” will take exactly in advance.
 
 ### 2) You can’t schedule your projects.
-Without knowing how much time you’ll need to make _a massive set of requirements_ until _an unrealistic deadline_, there is no way to [schedule your time](/post/the-schedule/). You’ll work as fast as you can, or do longer days than you’d probably want, or wait until you know it’s too late, or all together. That’s the best way to kill the *life* out of your work-life balance, disappoint all other clients, and probably everyone around you.
+Without knowing how much time you’ll need to meet _a massive set of requirements_ before _an unrealistic deadline_, there is no way to [schedule your time](/post/the-schedule/). You’ll work as fast as you can, or do longer days than you’d probably want, or wait until you know it’s too late, or all together. That’s the best way to kick the *life* out of your work-life balance, disappoint all other clients, and probably everyone around you.
 
 ### 3) The quality of the project suffers.
 For us, it always felt the same. We were motivated to start a project, but there was less budget left with every hour we tracked. It all falls apart when you’ve already worked the estimated time, and probably even more, and you realize that there is still a lot of work to do.
 
-Then you’re going to be tempted to let the quality suffer or to put in the needed time and kill you or your company in the long run. Often, we’ve chosen the second, very unsustainable option.
+Then you’re going to be tempted to let the quality suffer or to put in the needed time and harm you or your company in the long run. Often, we’ve chosen the second, very unsustainable option.
 
 ### 4) You’re going to burn out.
-You are working more than you want, delivering less quality than you would like, and earning less than you should. That is a great way to feel uncomfortable. And from my personal experience, it’s the best way to burn out.
+You work more, deliver less, and earn less. That is a great way to feel uncomfortable. And from my personal experience, it’s the best way to burn out.
 
 After giving 110 % to deliver quality in time with fixed budgets, I just didn’t have much energy left at some point. Thankfully, we’re a team, and I had the chance to work less without worrying too much. An option that single freelancers often don’t have.
 
