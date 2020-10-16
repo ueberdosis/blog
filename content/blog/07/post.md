@@ -6,7 +6,7 @@ slug: fixed-budgets
 published_at: 2020-10-15
 ---
 
-Our agency name goes back to a time where we worked for fixed budgets. We’ve always put more time into projects than we got paid, and feared to kill our company with an überdosis (overdose) of unpaid work.
+Our name goes back to a time where we worked for fixed budgets. We’ve always put more time into projects than we got paid, and feared to kill our company with an überdosis (overdose) of unpaid work.
 
 Luckily we improved things before that happened. I want to share a few of our experiences with you.
 
@@ -16,7 +16,7 @@ Let’s talk about a few reasons why a fixed budget can hurt you or your company
 ### 1) You don’t know how much time you’ll need.
 There is no way to know how much time creativity needs. If you think you do, you’re probably repeating the same steps over and over or doing some off the shelf work. If that’s the case, you can probably skip the whole post and stick to what works for you.
 
-But if your clients ask you to make something different from their competitors, something special for them, something unique, there is no way to know how long “unique” will take exactly in advance.
+But if your clients ask to make something different from their competitors, something special for them, something unique, there is no way to know how long “unique” will take exactly in advance.
 
 ### 2) You can’t schedule your projects.
 Without knowing how much time you’ll need to meet _a massive set of requirements_ before _an unrealistic deadline_, there is no way to [schedule your time](/post/the-schedule/). You’ll work as fast as you can, or do longer days than you’d probably want, or wait until you know it’s too late, or all together. That’s the best way to kick the *life* out of your work-life balance, disappoint all other clients, and probably everyone around you.

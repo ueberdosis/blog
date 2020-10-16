@@ -26,7 +26,7 @@ Our Slack feels like home. It’s the place where everybody says hi in the morni
 We know that it can be a big distraction, but we use it very respectful here. We don’t expect immediate answers and disable the account when someone takes a few days off.
 
 ### Toggl
-We have a love-hate relationship with time tracking. That said, it’s the foundation for our agency and how we bill our projects. It’s not tangible to get rid of it. At least Toggl has everything we need.
+We have a love-hate relationship with time tracking. That said, it’s the foundation for our company and how we bill our projects. It’s not tangible to get rid of it. At least Toggl has everything we need.
 
 We don’t like the new design, miss some comfort features now and then, and they are reliable in not announcing planned downtimes in advance, but that’s okay. It still feels like a good compromise between simple and powerful.
 
@@ -54,7 +54,7 @@ It’s old photoshop files lying around.
 We don’t write that many documents, but it’s good to have a place to work on copy collaboratively. And we store offers and contracts there.
 
 #### Spreadsheets
-Unfortunately, the foundation of our agency is Google Spreadsheets. It’s like our operating system. Everything money-related is there. We have massive spreadsheets with little automation scripts filling in data. I don’t see any way to change that.
+Unfortunately, the operating system of our company is Google Spreadsheets. Everything money-related is there. We have massive spreadsheets with little automation scripts filling in data. I don’t see any way to change that.
 
 We wanted to develop a set of tools to do all the calculations, but the ability to go in a file and change formula is just way more flexible.
 

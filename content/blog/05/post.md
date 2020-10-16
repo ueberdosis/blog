@@ -1,12 +1,12 @@
 ---
 title: The Schedule
-teaser: Let’s face it, as an agency, we sell our time to deliver creative work. We use scheduling to bring more calmness into our lives, while also increasing the quality of our work, and here’s how.
+teaser: Let’s face it, as a digital agency, we sell our time to deliver creative work. We use scheduling to bring more calmness into our lives, while also increasing the quality of our work, and here’s how.
 author: Hans Pagel
 slug: the-schedule
 published_at: 2020-10-13
 ---
 
-Let’s face it, as an agency, we sell our time to deliver creative work. How we schedule that time defines how a typical working day looks like here. We use scheduling to bring more calmness into our lives while also increasing the quality, and here’s how.
+Let’s face it, as a digital agency, we sell our time to deliver creative work. How we schedule that time defines how a typical working day looks like here. We use scheduling to bring more calmness into our lives while also increasing the quality, and here’s how.
 
 ## Why should you bother?
 We’ve gone through it: Delayed projects, stressful deadlines, working extra hours, or even on weekends. None of that should be required to run a successful company, and we are pretty happy that no one in our team is doing that anymore.

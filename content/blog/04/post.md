@@ -17,7 +17,7 @@ Let’s add numbers people usually don’t talk much about: We put in a few hund
 But let’s talk about how we made tiptap 2 even more awesome already. I guess that’s why you’re here.
 
 ### 1) A new home for tiptap.
-First of all, we moved tiptap to our [überdosis GitHub organization](https://github.com/ueberdosis). [überdosis](https://twitter.com/_ueberdosis) is the agency we are both co-founders of and which is sponsoring the development currently. Without that kind of support, we won’t be able to work on tiptap.
+First of all, we moved tiptap to our [überdosis GitHub organization](https://github.com/ueberdosis). [überdosis](https://twitter.com/_ueberdosis) is the company we are both co-founders of and which is sponsoring the development currently. Without that kind of support, we won’t be able to work on tiptap.
 
 ### 2) Hello TypeScript!
 So many people asked us to add TypeScript definitions. We couldn’t ignore it anymore. We took a close look at TypeScript and finally decided – after months of fiddling around with it – to write tiptap (from scratch) using TypeScript. For us, it’s still a love-hate relationship, but you will definitely have a ton of advantages.
