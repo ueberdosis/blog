@@ -56,10 +56,8 @@ Everything we do, we share on Twitter. And if I learned one thing, than that peo
 A special thanks to [Julius Gehrig](https://twitter.com/juliusgehrig), who made the Mouseless icon, also to [Surya Anand](https://twitter.com/suryaannd), who helped us with the [matter.md](https://matter.md) icon, and to all the others – you know who you are!
 
 ## We want to build something meaningful.
-After thinking about what we want to make with the freedom to build whatever we want, we decided to work in areas where we have experience. And to help as many people as possible.
+After thinking about what we want to make with the freedom to build whatever we want, we decided to work in areas where we have experience. And to help people in a sustainable manner.
 
-For us, open source seems to be that way.
-
-Today, we talked about all of that in the team, and there was one big question. How do we feel about all of that? And I can say we’re pretty excited about everything that comes. Also, we extend that experiment for another 12 months.
+For us, open source seems to be that way. We decided to extend our experiment for another 12 months to test that.
 
 Thanks for reading! Please send me all your questions. I’m happy to [answer them on Twitter](https://twitter.com/hanspagel) or in one of the next posts.
