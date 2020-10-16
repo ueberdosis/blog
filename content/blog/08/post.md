@@ -72,7 +72,7 @@ We also evaluated a ton of knowledge bases, but we couldn’t find a decent one.
 
 Skara is still in private beta, and that won’t change soon. We’re using it for a year already and have a massive base of documentation for everything, and it just feels fantastic. It takes a lot of discipline, but it’s worth it.
 
-We are probably the only company in the world not using Notion, but we think Notion with all its possibilities leads to an unstructured mess. Also, it’s slow, and we don’t like that.
+We are probably the only company in the world not using Notion, but we think Notion with all its possibilities [leads to an unstructured mess](https://medium.com/diesdas-direct/notion-encourages-busy-work-and-im-tired-of-it-b1e049edb663). Also, it’s slow, and we don’t like that.
 
 ### #8 [TeamSpeak](https://teamspeak.com/en/), self-hosted
 We’ve set up a TeamSpeak server where everyone can jump in and out to talk to others at any time. The user interface looks like it’s 1995, but it’s great to hang out together.
