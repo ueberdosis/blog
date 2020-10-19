@@ -41,24 +41,25 @@ The whole thing is a massive team effort. We are two people working on those sel
 The whole team is so supportive and shows trust in the work we do, even if it doesn’t work out financially.
 
 ## Distraction is everywhere.
-Our main business is still creative work for clients. Philipp and I tried to work less on client projects, but we jumped in on a few occasions. For example, we are working on a project for a pretty cool YC company this month.
+Our main business is still creative work for clients. We tried to work less on client projects but jumped in on a few occasions. For example, we are working on a project for a pretty cool YC company this month.
 
-On the one hand, that feels like a distraction. On the other hand, all those distractions are great opportunities too. That said, the whole team is very supportive in that regard. Everyone tries to help us to focus on self-initiated projects.
+On the one hand, that feels like a distraction. On the other hand, all those distractions are great opportunities to switch perspectives.
+
+That said, the whole team is very supportive in that regard too. Everyone tries to help us to focus on self-initiated projects.
 
 ## Stopping a project hurts.
 Also, we experienced how hard it is to stop a project. It feels like losing something, and it feels like a failure. We fear to disappoint the people around us, the people following us, and the people supporting us.
 
-That experience will hold us back from just starting something new, without considering what we do with it in the long run.
+That experience will hold us back from just starting something new, without considering what we do with it in the long run. We want to do fewer projects and stick to them for a long time.
 
 ## People are fantastic.
-Everything we do, we share on Twitter. And if I learned one thing, than that people are friendly and want to see us succeed. So many people helped us to find our way.
+Everything we do, we share on Twitter. It’s incredible how friendly people are. We feel they want to see us succeed. So many kind humans helped us to find our way.
 
 A special thanks to [Julius Gehrig](https://twitter.com/juliusgehrig), who made the Mouseless icon, also to [Surya Anand](https://twitter.com/suryaannd), who helped us with the [matter.md](https://matter.md) icon, and to all the others – you know who you are!
 
 ## We want to build something meaningful.
-After thinking about what we want to make with the freedom to build whatever we want, we decided to work in areas where we have experience. And to help people in a sustainable manner.
+After thinking about what we want to make with the freedom to build whatever we want, we decided to work in areas where we have experience. And to help people sustainably.
 
-For us, open source seems to be that way. Also, we decided to extend our experiment for another 12 months to test that.
+For us, open source seems to be that way. It’s accessible, transparent, sustainable, and it helps a ton of people. And we’re good with code. To test that, we decided to extend our experiment for another 12 months.
 
 Thanks for reading! Please send me all your questions. I’m happy to [answer them on Twitter](https://twitter.com/hanspagel/status/1318121627972964353) or in one of the next posts.
-
