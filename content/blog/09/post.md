@@ -6,9 +6,9 @@ slug: a-year-of-side-projects
 published_at: 2020-10-19
 ---
 
-We’ve worked on side projects for as long as I remember but started just a year ago to make it part of our daily work in the company. It began as an experiment to learn new things and see where it goes. I want to share a few of our insights with you.
+We’ve worked on side projects for as long as I remember but started just a year ago to make it part of our daily work in the company. Or in other words, we made side projects our main projects. Here is what we’ve learned over the last months.
 
-First of all, it has been an emotional roller coaster. [Mouseless](https://mouseless.app), one of our first projects, was a great success already, but we failed with so many other projects. Here is what we have taken from all the started, paused, stopped, and launched projects:
+The whole thing began as an experiment to learn new things, without knowing where it all goes. One of our first projects, [Mouseless](https://mouseless.app), was a great success already, but we failed with so many other projects. We always tried to learn something from [all projects](/post/list-of-side-projects/), though. Here is what we’ve taken from it:
 
 ## We did too many things in parallel.
 For the last year, we had only one boundary: a limit of 160 hours per month. We calculated that we could work that much on other things without risking our primary business too much. That was all.
