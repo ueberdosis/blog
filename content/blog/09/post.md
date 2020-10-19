@@ -23,7 +23,7 @@ That’s the opposite of what made us starting those self-initiated projects in 
 ## Money isn’t everything.
 For the first year, we expected to make $0. We already made a decent amount of money with our macOS apps, which probably should feel like a success. But we figured out that’s not what we want to be our success metric and let it define where we put our time.
 
-We don’t want to find a way to become rich. That’s not why we are doing it. We want to find a way to deliver value sustainably. And we don’t believe that this future is in macOS apps. We love the open web too much to focus on a specific platform.
+We don’t want to become rich, in the sense of having more money than we need. That’s not why we are doing it. We want to find a way to deliver value sustainably. And yes, that includes making money somehow, but we don’t believe that this future is in macOS utility apps. We love the open web too much to focus on a specific platform.
 
 That’s why we decided to [open source everything](https://blog.ueber.io/post/share-everything/), though we have no clue how that will make us money.
 
