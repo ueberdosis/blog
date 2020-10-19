@@ -60,4 +60,4 @@ After thinking about what we want to make with the freedom to build whatever we 
 
 For us, open source seems to be that way. Also, we decided to extend our experiment for another 12 months to test that.
 
-Thanks for reading! Please send me all your questions. I’m happy to [answer them on Twitter](https://twitter.com/hanspagel) or in one of the next posts.
+Thanks for reading! Please send me all your questions. I’m happy to [answer them on Twitter](https://twitter.com/hanspagel/status/1318121627972964353) or in one of the next posts.
