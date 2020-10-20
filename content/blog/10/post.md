@@ -61,6 +61,9 @@ By the way, we’re looking for a [frontend engineer](https://ueberdosis.io/fron
 ## Sponsored features
 People always request features. Try turning feature requests into sponsored work, and offer to add those features in exchange for money. If multiple users or companies ask for the same functionality, you can even offer to share the development costs. Don’t forget to mention your sponsors in the release notes!
 
+## Bounties
+Bounties enable users to attach money to a bug report. In most cases, that’s only a few dollars, but it doesn’t have to be you working on it. It can also motivate contributors to help you with the maintenance, which is cool too.
+
 ## Sponsorware
 [Sponsorware](https://github.com/sponsorware/docs) is a way to offer sponsors early-access to private repositories. When you reach a certain number of sponsors, you can open source the project and make it available to everyone.
 
