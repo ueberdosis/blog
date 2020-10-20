@@ -93,4 +93,4 @@ That said, we’ll hope that your open source project gains popularity and the l
 
 Let’s face it—nobody profits from abandoned open source projects.
 
-That’s all we could find, but I’m sure we missed something. Please [point out other ways]() to your open source work sustainable. Let’s make open source sustainable together!
+That’s all we could find, but I’m sure we missed something. Please [point out other ways](https://twitter.com/hanspagel/status/1318488075182497792) to your open source work sustainable. Let’s make open source sustainable together!
