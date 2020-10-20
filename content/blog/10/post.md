@@ -22,6 +22,9 @@ Your source code can stay open source, but add a license that requires people to
 
 Note, it might be hard to enforce the license for publicly accessible source code.
 
+## Goodwill licenses
+If you don’t want to waste time enforcing a license, you could sell a goodwill license. It’s in between donations and regular licenses, where you kindly ask the users of your project to pay. But inside companies, it’s easier to argue for paying for a license than for a donation.
+
 ## Support
 Some developers or companies need support to use your software. You can offer them support contracts, e. g. to promise a short response time for bug reports or availability for calls. Some companies require this level of support, some will use it extensively, and some won’t ever use it.
 
@@ -93,4 +96,6 @@ That said, we’ll hope that your open source project gains popularity and the l
 
 Let’s face it—nobody profits from abandoned open source projects.
 
-That’s all we could find, but I’m sure we missed something. Please point out other ways [on HackerNews](https://news.ycombinator.com/item?id=24835485) or [on Twitter](https://twitter.com/hanspagel/status/1318488075182497792) to make your open source work sustainable!
+That should give you a rough idea of what directions you could take. If you’re looking for a more in-depth guide on that topic, be sure to check out the [handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand).
+
+Feel free to point out other ways or resources [on HackerNews](https://news.ycombinator.com/item?id=24835485) or [on Twitter](https://twitter.com/hanspagel/status/1318488075182497792) to make your open source work sustainable!
