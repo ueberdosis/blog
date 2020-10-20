@@ -1,16 +1,16 @@
 ---
-title: Monetizing your Open-Source Project
-teaser: We double down on our open source projects without knowing how we make money with it. Open-source software is accessible for free, so how can we make it sustainable?
+title: Monetizing your Open Source Project
+teaser: We double down on our open source projects without knowing how we make money with it. Open source software is accessible for free, so how can we make it sustainable?
 author: Hans Pagel
-slug: monetizing-open-source
+slug: monetizing-open source
 published_at: 2020-10-20
 ---
 
-We double down on our open source projects without knowing how we make money with it. Open-source software is accessible for free, so how can we make it sustainable? Let’s look at what could work.
+We double down on our open source projects without knowing how we make money with it. Open source software is accessible for free, so how can we make it sustainable? Let’s look at what could work.
 
 Too many open source projects die because developers burn out to deliver fantastic software in their free time. That’s not how it should be, so what’s the alternative? We researched the topic and concluded there is not that one answer to the question.
 
-What works for you depends on your project’s type, what you want to do, who you develop the software for, and many more things. Here is a list of ideas you can try or even combine to make money with your open-source projects. Hopefully, that helps you to free more time for the things you love to work on.
+What works for you depends on your project’s type, what you want to do, who you develop the software for, and many more things. Here is a list of ideas you can try or even combine to make money with your open source projects. Hopefully, that helps you to free more time for the things you love to work on.
 
 ## Donations
 People are kind, so why not adding a donate button to your README? That’s an easy way to get a little money for your work. Unfortunately, that didn’t work for us. We asked for donations for our work on tiptap, a popular package that took us a few hundred hours to develop.
@@ -18,7 +18,7 @@ People are kind, so why not adding a donate button to your README? That’s an e
 Hundreds of developers, companies, and even a few big corporations use it, but we earned less than $300 through PayPal donations over the last three years. Don’t get me wrong, we are very thankful for every dollar, but this makes an hourly rate of less than $1. That’s not sustainable, and not enough to work less on client projects and more on the bespoken project.
 
 ## Licenses
-Your source code can stay open source, but add a license that requires people to pay for permission to use it in their projects. And to keep it fair, you can exclude non-commercial projects, non-profit organizations, students, and other open-source projects.
+Your source code can stay open source, but add a license that requires people to pay for permission to use it in their projects. And to keep it fair, you can exclude non-commercial projects, non-profit organizations, students, and other open source projects.
 
 Note, it might be hard to enforce the license for publicly accessible source code.
 
@@ -28,9 +28,9 @@ Some developers or companies need support to use your software. You can offer th
 Offering support can work well for teams but can be a distraction from the work they are good at for single developers.
 
 ## Contracting
-If you open-sourced something like a complex library, companies might want to hire you to implement your solution in their system. They know that you are the expert for the software you’ve written and happily pay you, even if it’s more than an average freelancer rate.
+If you open sourced something like a complex library, companies might want to hire you to implement your solution in their system. They know that you are the expert for the software you’ve written and happily pay you, even if it’s more than an average freelancer rate.
 
-If you enjoy open-source because you didn’t want to work with clients, that’s probably not for you. On the other hand, you’ll always use your code, which will help better understand the needs to implement your software.
+If you enjoy open source because you didn’t want to work with clients, that’s probably not for you. On the other hand, you’ll always use your code, which will help better understand the needs to implement your software.
 
 ## Dual licensing
 Your software can have multiple licenses. For example, a basic version can be free for everyone, while another version, probably more tailored to what companies need, can be licensed differently.
@@ -53,13 +53,13 @@ There are so many platforms tailored to easily offer sponsorship subscriptions t
 ## Day Job
 Some companies make open source part of your day job. If you don’t need to work on an own project, but love a regular job’s safety, consider looking for such an employer.
 
-By the way, we’re looking for a [frontend engineer](https://ueberdosis.io/frontend-engineer) and a [PHP developer](https://ueberdosis.io/php-developer), both roles include working on existing and new open-source projects.
+By the way, we’re looking for a [frontend engineer](https://ueberdosis.io/frontend-engineer) and a [PHP developer](https://ueberdosis.io/php-developer), both roles include working on existing and new open source projects.
 
 ## Sponsored features
 People always request features. Try turning feature requests into sponsored work, and offer to add those features in exchange for money. If multiple users or companies ask for the same functionality, you can even offer to share the development costs. Don’t forget to mention your sponsors in the release notes!
 
 ## Sponsorware
-[Sponsorware](https://github.com/sponsorware/docs) is a way to offer sponsors early-access to private repositories. When you reach a certain number of sponsors, you can open-source the project and make it available to everyone.
+[Sponsorware](https://github.com/sponsorware/docs) is a way to offer sponsors early-access to private repositories. When you reach a certain number of sponsors, you can open source the project and make it available to everyone.
 
 It will help if you start new projects regularly and have an audience that can’t wait to test them.
 
@@ -93,4 +93,4 @@ That said, we’ll hope that your open source project gains popularity and the l
 
 Let’s face it—nobody profits from abandoned open source projects.
 
-That’s all we could find, but I’m sure we missed something. Please point out other ways to your open source work sustainable. Let’s make open source sustainable together!
+That’s all we could find, but I’m sure we missed something. Please [point out other ways]() to your open source work sustainable. Let’s make open source sustainable together!
