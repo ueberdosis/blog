@@ -98,4 +98,4 @@ Let’s face it—nobody profits from abandoned open source projects.
 
 That should give you a rough idea of what directions you could take. If you’re looking for a more in-depth guide on that topic, be sure to check out the [handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand).
 
-Feel free to point out other ways or resources [on HackerNews](https://news.ycombinator.com/item?id=24835485) or [on Twitter](https://twitter.com/hanspagel/status/1318488075182497792) to make your open source work sustainable!
+Feel free to point out other ways or resources to make open source work sustainable [on HackerNews](https://news.ycombinator.com/item?id=24835485) or [on Twitter](https://twitter.com/hanspagel/status/1318488075182497792)!
