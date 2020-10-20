@@ -1,5 +1,5 @@
 ---
-title: Monetizing your Open Source Project
+title: Monetizing Your Open Source Project
 teaser: We double down on our open source projects without knowing how we make money with it. Open source software is accessible for free, so how can we make it sustainable?
 author: Hans Pagel
 slug: monetizing-open source
