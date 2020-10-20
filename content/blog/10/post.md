@@ -77,6 +77,9 @@ It’s a lot of extra work on top of your open source projects. You should consi
 ## Education
 You are the expert for your software, so I’d want to learn more about your software. I prefer to get that educational content from you. Consider publishing an ebook or a video course that explains your software in all details and helps people use it.
 
+## Crowdfunding
+With an existing audience interested in your software, there is a good chance people are willing to pay you upfront to work on your project. It’s an excellent approach for something tangible, like a significant rewrite, a big shift in the development, or any other effort the community is willing to support.
+
 ## Ads
 If you’ve got widespread documentation with thousands of page views every month, you’ll be able to put ads on it and earn money with that.
 
