@@ -42,7 +42,7 @@ Also, consider offering a free version for everyone and add a few benefits for p
 
 Those extra benefits can be access to more features/plugins or other things like a community with restricted access.
 
-## Managed Hosting
+## Managed hosting
 If your software needs hosting and can be self-hosted, consider offering a managed hosting solution. Many people don’t want to operate their instance and happily pay you to do that for them.
 
 You need to develop something to sell it, provision new instances, and maintain them. It’s a very fair approach and can work well, as you’ll always have people paying for convenience.
@@ -50,7 +50,7 @@ You need to develop something to sell it, provision new instances, and maintain 
 ## Sponsorship
 There are so many platforms tailored to easily offer sponsorship subscriptions to your users that you should think about adding this. But be aware that it’s the same as with donations. You won’t get many sponsors, but it’s recurring revenue that can help you feel safe.
 
-## Day Job
+## Day job
 Some companies make open source part of your day job. If you don’t need to work on an own project, but love a regular job’s safety, consider looking for such an employer.
 
 By the way, we’re looking for a [frontend engineer](https://ueberdosis.io/frontend-engineer) and a [PHP developer](https://ueberdosis.io/php-developer), both roles include working on existing and new open source projects.
@@ -86,7 +86,7 @@ Maybe you have a software that can be the foundation for a whole ecosystem. Then
 
 People will buy your products because you’ll tailor them precisely for the software you built in the first place.
 
-## Paid Certifications
+## Paid certifications
 If companies are looking for developers with knowledge of your software, you can certify developers’ abilities. But if you already reached that level of popularity, you probably don’t need that post here anyway.
 
 That said, we’ll hope that your open source project gains popularity and the list of things you can do somehow helps you make the maintenance and development sustainable.
