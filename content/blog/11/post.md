@@ -51,4 +51,4 @@ Between Christmas and New Year, no one works here. Spend that time with your fam
 ## Sick time.
 If you’re sick in your holidays, go to the doctor. She will give you a certificate which enables us to transform your holidays into sick days in retrospect.
 
-Easy as that. Anything we should add? [Let me know on Twitter](https://twitter.com/hanspagel). Oh, and if you think that sounds to good to be true, try it out as a [frontend engineer](https://ueberdosis.io/frontend-engineer) or a [PHP developer](https://ueberdosis.io/php-developer).
+Easy as that. Anything we should add? [Let me know on Twitter](https://twitter.com/hanspagel/status/1318856283748028417). Oh, and if you think that sounds to good to be true, try it out as a [frontend engineer](https://ueberdosis.io/frontend-engineer) or a [PHP developer](https://ueberdosis.io/php-developer).
