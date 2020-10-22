@@ -39,8 +39,8 @@ All our employees have a 1,000 € educational budget per year to buy whatever t
 
 We ask everyone to share and discuss their new knowledge with the team. That’s not only a great way to give others a broad understanding of topics they wouldn’t learn about otherwise but also a way to deepen your understanding.
 
-Also, we give everyone time to read, watch, discuss, talk, write, exchange, experiment, and apply their knowledge to form a new skill. All team members can ask us to [block a few days in our schedule](/posts/the-schedule) so that work won’t interrupt them.
+Also, we give everyone time to read, watch, discuss, talk, write, exchange, experiment, and apply their knowledge to form a new skill. All team members can ask us to [block a few days in our schedule](/post/the-schedule) so that work won’t interrupt them.
 
 And if someone wants to read or watch something for an hour or so, there is no need to tell us. Just do it, learning should be part of the daily work, and we respect that.
 
-How do you deal with learning? Do you have enough time to grow your skills? How do you manage to block time for it? [Let us know on Twitter](https://twitter.com/hanspagel), happy to chat with you!
+How do you deal with learning? Do you have enough time to grow your skills? How do you manage to block time for it? [Let us know on Twitter](https://twitter.com/hanspagel/status/1319224587385737216), happy to chat with you!
