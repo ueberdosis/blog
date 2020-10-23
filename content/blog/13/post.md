@@ -1,8 +1,8 @@
 ---
-title: When to (Not) Work on Your Side Projects
+title: (Not) Working on Side Projects
 teaser: Over the years, we tried to fit our side projects into different time slots. Nothing felt right to us, so I tried to find out what works for others.
 author: Hans Pagel
-slug: time-for-side-projects
+slug: working-on-side-projects
 published_at: 2020-10-23
 ---
 
