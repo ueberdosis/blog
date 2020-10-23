@@ -13,36 +13,30 @@ We write a lot about our side projects and hope to help you with a few of our in
 
 Some people like to work on side projects and have enough time to work on them, but it’s okay not to do that. You have to recharge and shouldn’t feel bad for doing so. For example, Alex Muench is a designer for Todoist and Twist, both excellent products, but you know what? He isn’t working on a side project.
 
-> No energy for side projects atm
-> – Alex Muench
+> Alex Muench: “No energy for side projects atm”<br>
 
 ## In the morning
 Marcel Bachran, a fantastic designer, is having a 4-day-week. Though, he seems not to work on his side projects on the fifth day.
 
-> Before work or directly after work during the week because then I’m already in productive mode.
-> – Marcel Bachran
+> Marcel Bachran: “Before work or directly after work during the week because then I’m already in productive mode.”<br>
 
 We’re currently doing it like Marcel and work on our side projects before 10 am and after 5 pm. It’s great to start your day with a fresh mind and focus on your side project right away. The downside is, you have to stop at a certain point to start your day job.
 
 ## In the evening
 I like the discipline of Stefan Zweifel, who has built his Software as a Service over months, with 4 hours/week or less.
 
-> At max, two evenings per week for 2 hours.
-> Not too short, not too long.
-> – Stefan Zweifel
+> Stefan Zweifel: “At max, two evenings per week for 2 hours. Not too short, not too long.”<br>
 
 It’s also a good point that you shouldn’t choose too short time slots. Half an hour is sufficient to answer messages or do some smaller tasks, but it’s probably not enough to tackle a complicated task. I also like what James wrote, another excellent user interface designer:
 
-> Late at night.
-> – James
+> James: “Late at night.”<br>
 
 What I like about *night shifts* is the quietness. No phone that rings, no notifications, no meetings. There is no interruption, and it’s (more or less) open end. On the other hand, it can be hard to come to an end. And don’t forget, the best productivity hack is eight hours of sleep, don’t sacrifice too much of it.
 
 ## Weekends
 What if you’d work on your projects on weekends? Depending on your lifestyle, you probably have plenty of time, and maybe less interruptions then. That’s is what Jethro is doing:
 
-> Mostly on weekends, specifically Saturdays
-> – Jethro May
+> Jethro May: “Mostly on weekends, specifically Saturdays”<br>
 
 I like that he focuses on one day of the weekend, so there’s still one day to recharge. For me, working six days per week is too much. I can do that for two or three weeks, that’s all. I need a few days off then.
 
@@ -59,15 +53,13 @@ We had some fun hack weeks over the last years. We even switched environments an
 ## Whenever
 Life isn’t predictable, and for some, there is only the chance to work on their side projects whenever they can grab time.
 
-> After Baby: Whenever I can grab time
-> – David Hill
+> David Hill: “After Baby: Whenever I can grab time”<br>
 
 It’s great to have something to fill the gaps and work on smaller tasks, but it can be hard to work on complex tasks where you need to be in the flow for a while.
 
 Some of you probably hope to make your side projects your day job, and yes, that’s possible too. At least, it’s what Marcel does:
 
-> Always
-> – Marcel Pociot
+> Marcel Pociot: “Always”<br>
 
 Marcel is one of the few people releasing multiple projects per month and making a living from a few products. Don’t forget that people like Marcel worked on tons of projects for years without earning enough money to make side projects their main projects. There is no such thing as an overnight success.
 
