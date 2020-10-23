@@ -73,4 +73,4 @@ Marcel is one of the few people releasing multiple projects per month and making
 
 It’s all about making tiny steps regularly for a long time. We hope you can find a healthy time slot for your side projects, but if you don’t: No worries, don’t rush it.
 
-Thanks to all the people replying to my questions! What do you think? Please share with us what works or doesn’t work for you on Twitter!
+Thanks to all the people replying to my questions! What do you think? Please share with us what works or doesn’t work for you [on HackerNews](https://news.ycombinator.com/item?id=24867323) or [on Twitter](https://twitter.com/hanspagel/status/1319562954652659712)!
