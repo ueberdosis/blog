@@ -15,7 +15,7 @@
     <section class="c-article__content" v-html="content" />
 
     <footer class="c-article__author" v-if="author">
-      – {{ author }}
+      {{ author }}
     </footer>
   </article>
 </template>

@@ -13,7 +13,7 @@ We write a lot about our side projects and hope to help you with a few of our in
 
 Some people like to work on side projects and have enough time to work on them, but it’s okay not to do that. You have to recharge and shouldn’t feel bad for doing so. For example, Alex Muench is a designer for Todoist and Twist, both excellent products, but you know what? He isn’t working on a side project.
 
-> Alex Muench: “No energy for side projects atm”<br>
+> Alex Muench: “No energy for side projects at the moment”<br>
 
 ## In the morning
 Marcel Bachran, a fantastic designer, is having a 4-day-week. Though, he seems not to work on his side projects on the fifth day.
@@ -25,7 +25,7 @@ We’re currently doing it like Marcel and work on our side projects before 10 a
 ## In the evening
 I like the discipline of Stefan Zweifel, who has built his Software as a Service over months, with 4 hours/week or less.
 
-> Stefan Zweifel: “At max, two evenings per week for 2 hours. Not too short, not too long.”<br>
+> Stefan Zweifel: “At max, 2 evenings per week for 2 hours. Not too short, not too long.”<br>
 
 It’s also a good point that you shouldn’t choose too short time slots. Half an hour is sufficient to answer messages or do some smaller tasks, but it’s probably not enough to tackle a complicated task. I also like what James wrote, another excellent user interface designer:
 
