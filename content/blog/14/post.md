@@ -24,7 +24,7 @@ If we think we’re the right to help and want to help, all projects need to hav
 ### #1 Challenge
 We like to challenge ourselves. Maybe it’s more complex than what we built already, or perhaps we have the chance to use a technology we love to try out - that’s great!
 
-### #2 Notworthy reference
+### #2 Noteworthy reference
 We want to talk about our projects and want to be proud of our work. If we think it’s a cool thing to have worked on the bespoken project - that’s great too!
 
 ### #3 Budget
