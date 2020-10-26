@@ -33,6 +33,6 @@ If it’s a cool challenge, we’d love to add to our references, and there is a
 ## Sticking to our values.
 All of that helps to decide about new inquiries quickly. But there is something more important to us: We love to work with teams with the same values. We want to work on equal terms, in a fair partnership, with reliable people. If all of the above applies, but they strive for different values, that won’t work well. But those inquiries also receive a respectful and honest response. That’s what we think is natural.
 
-That kind of framework helps us to find great projects. We hope that enables you to decide about new project inquiries and work on the things that matter to you. If you want to partner with us, reach out to (Philip Isik)[philip.isik@ueber.io], who loves to hear about your idea.
+That kind of framework helps us to find great projects. We hope that enables you to decide about new project inquiries and work on the things that matter to you. If you want to partner with us, reach out to [Philip Isik](mailto:philip.isik@ueber.io), who loves to hear about your idea.
 
 Thanks for reading!
