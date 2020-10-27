@@ -28,4 +28,4 @@ That’s why we decided our blog needs to be a priority from now on. Even if we 
 
 Also, it’s more like *build, and they’ll come*, and we still stand behind that. You can come and go here. If you like what you read, you can decide to support us as creators. If you don’t like it, that’s fine too. That all feels friendly, valuable, helpful, sustainable, and that’s how we tick.
 
-Thanks for reading! [Share your blog with us on Twitter!](https://twitter.com/hanspagel)
+Thanks for reading! [Share your blog with us on Twitter!](https://twitter.com/hanspagel/status/1321054870993063938)
