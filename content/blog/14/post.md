@@ -24,7 +24,7 @@ If we think we’re the right to help and want to help, all projects need to hav
 ### #1 Challenge
 We like to challenge ourselves. Maybe it’s more complex than what we built already, or perhaps we have the chance to use a technology we love to try out - that’s great!
 
-### #2 Notworthy reference
+### #2 Noteworthy reference
 We want to talk about our projects and want to be proud of our work. If we think it’s a cool thing to have worked on the bespoken project - that’s great too!
 
 ### #3 Budget
@@ -33,6 +33,6 @@ If it’s a cool challenge, we’d love to add to our references, and there is a
 ## Sticking to our values.
 All of that helps to decide about new inquiries quickly. But there is something more important to us: We love to work with teams with the same values. We want to work on equal terms, in a fair partnership, with reliable people. If all of the above applies, but they strive for different values, that won’t work well. But those inquiries also receive a respectful and honest response. That’s what we think is natural.
 
-That kind of framework helps us to find great projects. We hope that enables you to decide about new project inquiries and work on the things that matter to you. If you want to partner with us, reach out to (Philip Isik)[philip.isik@ueber.io], who loves to hear about your idea.
+That kind of framework helps us to find great projects. We hope that enables you to decide about new project inquiries and work on the things that matter to you. If you want to partner with us, reach out to [Philip Isik](mailto:philip.isik@ueber.io), who loves to hear about your idea.
 
 Thanks for reading!
