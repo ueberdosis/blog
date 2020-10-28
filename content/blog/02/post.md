@@ -37,3 +37,4 @@ Here it is: I’m going to publish one post every single day for 30 days. Monday
 12. [(Not) Working on Side Projects](/post/working-on-side-projects/)
 13. [The Perfect Project](/post/the-perfect-project/)
 14. [Our Blog](/post/our-blog/)
+15. [A Great Pull Request](/post/great-pull-requests)
