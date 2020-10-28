@@ -17,7 +17,7 @@ Having a bug report with all related details can make a huge difference for a ma
 
 If you think you’ll have a deeper understanding of the code causing the bug, you can offer your help to fix it and propose a solution. It’s not even necessary to send a pull request. Maybe the maintainer already thought about your way to solve it and decided it’s not the best one to tackle the issue.
 
-Don’t forget that a maintainer probably not only has more knowledge about the whole codebase. It’s also up to them to maintain your code contribution in the future, that’s way easier if you’re on the same page with the solution.
+Don’t forget that a maintainer probably not only has more knowledge about the whole codebase. It’s also up to them to maintain your code contribution in the future. That’s way easier if you’re on the same page with the solution.
 
 Don’t invest too much time before it’s clear that your proposed solution is a welcome contribution.
 
@@ -28,14 +28,17 @@ First of all, keep your contribution small. In most cases, it shouldn’t be nec
 
 Remember that we need to follow your thoughts on every line of code, and your solution needs to fit our view on the codebase. Statistically, that won’t be the case if you change everything at once. If you need to change a ton, consider sending multiple pull requests that they can merge independently.
 
+A tiny pull request with one failing regression test is a great way to take the burden of reproducing a bug away from the maintainer and help them fix the actual issue.
+
 ## Explain what you did
 Give the maintainers a short explanation of what you did. There is no need to describe every single line of code. Focus on the things that are not in the code. Write why you did the change, what’s the benefit of the change, and if there are any breaking changes.
+
+It‘s not very likely that someone accepts breaking changes, try to avoid them wherever possible, and save everyone, including the project’s users, time.
 
 ## Adhere to the style
 You’ll want to keep the style of the project. Depending on the project, add regression tests before fixing bugs, add tests for new features, format your code according to the project’s code style, update the README or the documentation, and run all tests before sending the pull request, and so on.
 
-Ensure it fit’s the expectations of the maintaining developers and also of the project’s users. If that feels overwhelming, consider making a smaller contribution at first.
+Ensure it fits the expectations of the maintaining developers and also of the project’s users. If that feels overwhelming, consider making a smaller contribution at first.
 
-A tiny pull request with one failing regression test is a great way to take the burden of reproducing a bug away from the maintainer and help them fix the actual issue.
-
+## Send a PR for this post
 Anyway, that’s enough to start with your first contribution. Maybe it’s a contribution to this blog? If you want to fix a typo or propose an addition to the post, [try it out](https://github.com/ueberdosis/blog/blob/main/content/blog/16/post.md)! Thanks for contributing!
