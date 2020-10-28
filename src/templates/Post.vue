@@ -21,6 +21,9 @@ query($path: String!) {
     content
     published_at
     author
+    fileInfo {
+      path
+    }
   }
 }
 </page-query>
