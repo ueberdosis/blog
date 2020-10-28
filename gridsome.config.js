@@ -4,6 +4,10 @@
 // Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
+var unified = require('unified')
+var markdown = require('remark-parse')
+var html = require('remark-html')
+
 module.exports = {
   siteName: 'überdosis',
   siteUrl: 'https://blog.ueber.io/',
@@ -60,11 +64,19 @@ module.exports = {
         // Optional: a method that accepts a node and returns an object for `Feed.addItem()`
         // See https://www.npmjs.com/package/feed#example for available properties
         // NOTE: `date` field MUST be a Javascript `Date` object
-        nodeToFeedItem: (node) => ({
-          title: node.title,
-          date: node.published_at,
-          content: node.content
-        })
+        nodeToFeedItem: (node) => {
+          const content = unified()
+            .use(markdown)
+            .use(html)
+            .processSync(node.content)
+            .toString()
+
+          return {
+            title: node.title,
+            date: node.published_at,
+            content: content
+          }
+        }
       }
     },
   ],
