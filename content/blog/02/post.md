@@ -20,3 +20,20 @@ But I want to do this. For the few people that take value out of it and just for
 
 ## I’ll try something new.
 Here it is: I’m going to publish one post every single day for 30 days. Monday to Friday. Can’t be that hard, can it?
+
+## Update: List of posts
+
+1. [30 Posts](/post/30-posts/)
+2. [Stopping a Project](/post/stopping-a-project/)
+3. [Our Plan for tiptap 2](/post/our-plan-for-tiptap-2/)
+4. [The Schedule](/post/the-schedule/)
+5. [List of Side Projects](/post/list-of-side-projects/)
+6. [Fixed Budgets](/post/fixed-budgets/)
+7. [Tools](/post/tools/)
+8. [Lessons from a Year of Side Projects](/post/a-year-of-side-projects/)
+9. [Monetizing Your Open Source Project](/post/monetizing-open-source/)
+10. [Time Off](/post/time-off/)
+11. [Keep Learning](/post/keep-learning/)
+12. [(Not) Working on Side Projects](/post/working-on-side-projects/)
+13. [The Perfect Project](/post/the-perfect-project/)
+14. [Our Blog](/post/our-blog/)
