@@ -5,9 +5,9 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'überdosis blog',
+  siteName: 'überdosis',
   siteUrl: 'https://blog.ueber.io/',
-  titleTemplate: '%s – überdosis blog',
+  titleTemplate: '%s – überdosis',
   icon: './src/assets/images/favicon.png',
   port: 3000,
   plugins: [

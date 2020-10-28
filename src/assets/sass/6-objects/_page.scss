@@ -16,6 +16,11 @@
     text-decoration: none;
   }
 
+  &__description {
+    opacity: 0.4;
+    padding-left: 0.25em;
+  }
+
   &__content {
     flex: 1 0 auto;
     display: flex;

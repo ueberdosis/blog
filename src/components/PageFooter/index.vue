@@ -14,7 +14,11 @@ export default {
     gitHubLink() {
       const file = this.$page.post?.fileInfo?.path
 
-      return file && `https://github.com/ueberdosis/blog/tree/main/content/blog/${file}`
+      if (file) {
+        return `https://github.com/ueberdosis/blog/tree/main/content/blog/${file}`
+      }
+
+      return 'https://github.com/ueberdosis/blog'
     },
   },
 }

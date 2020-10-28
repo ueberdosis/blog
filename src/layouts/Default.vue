@@ -6,6 +6,9 @@
             <g-link to="/" class="o-page__title">
               {{ $static.metadata.siteName }}
             </g-link>
+            <span class="o-page__description">
+              a team of lovely creatives
+            </span>
           </Section>
 
           <slot/>
