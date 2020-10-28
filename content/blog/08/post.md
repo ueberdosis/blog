@@ -30,8 +30,8 @@ We have a love-hate relationship with time tracking. That said, it’s still the
 
 We don’t like the new design, miss some comfort features now and then, and they are reliable in not announcing planned downtimes in advance, but that’s okay. It still feels like a good compromise between simple and powerful, and has everything we need.
 
-### #3 [G-Suite](https://workspace.google.com/intl/de/)
-The G-Suite offer is too good to be true, but as we all know, it’s the data they want. We’d like to move away from Google, but for now, it is like it is.
+### #3 [Google Workspace](https://workspace.google.com/intl/de/)
+The Google Workspace offer is too good to be true, but as we all know, it’s the data they want. We’d like to move away from Google, but for now, it is like it is.
 
 #### Gmail
 I don’t think we use emails that much. We try to tunnel external communication through a few people (one for new inquiries, one for applications, a project manager for clients). A designer or developer shouldn’t receive more than a few emails a week.
