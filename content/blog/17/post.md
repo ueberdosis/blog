@@ -2,7 +2,7 @@
 title: Sponsoring tiptap
 teaser: Too many open source developers abandon their projects because they can’t sustain their work. Let’s find out together how this can work for tiptap.
 author: Hans Pagel
-slug: tiptap-pro
+slug: sponsoring-tiptap
 published_at: 2020-10-29
 ---
 
