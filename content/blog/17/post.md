@@ -44,4 +44,4 @@ With *tiptap pro*, we’d like to ask people who use those extensions in a comme
 But we won’t ask people using it for personal projects, university projects, open source projects, or other non-profit projects to sponsor us.
 
 ## Does that sound right to you?
-We’re excited to hear your thoughts on this. We want to take this journey with all of you! Reach out to us [on Twitter](https://twitter.com/hanspagel), [on GitHub](https://github.com/ueberdosis/tiptap/issues/547), or [send an email to me](mailto:hans.pagel@ueber.io)!
+We’re excited to hear your thoughts on this. We want to take this journey with all of you! Reach out to us [on Twitter](https://twitter.com/hanspagel/status/1321738829468999682), [on GitHub](https://github.com/ueberdosis/tiptap/issues/547), on [HackerNews](https://news.ycombinator.com/item?id=24928523) or [send an email to me](mailto:hans.pagel@ueber.io)!
