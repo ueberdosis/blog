@@ -17,11 +17,11 @@
     "moment": "^2.29.1"
   },
   "devDependencies": {
-    "node-sass": "^4.14.1",
+    "node-sass": "^5.0.0",
     "poly-fluid-sizing": "^1.1.0",
     "remark-html": "^13.0.1",
     "remark-parse": "^9.0.0",
-    "sass-loader": "^10.0.4",
+    "sass-loader": "^10.0.5",
     "unified": "^9.2.0"
   }
 }
