@@ -31,7 +31,7 @@ Though, I like to look up how much I worked over the week on a Friday evening. A
 We even feel it protects us from doing more or less than we get paid. Both could be bad for a calm working environment, where you don’t want to do extra hours (stress!) and don’t want to slack around too much in between projects (procrastination leads to stress).
 
 ## How we do it
-[We use Toggl Track for a few years now](/post/the-tools), but you can use whatever you like. It’s a service that everyone in the team has access to, has a big start/stop button, and a description field. That’s it.
+[We use Toggl Track for a few years now](/post/tools), but you can use whatever you like. It’s a service that everyone in the team has access to, has a big start/stop button, and a description field. That’s it.
 
 By the way, some tools offer automatic time tracking, which checks what app you’re running for how long. If you struggle to build the habit of tracking the time, that’s probably a better start.
 
