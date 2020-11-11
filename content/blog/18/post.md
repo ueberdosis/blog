@@ -61,4 +61,4 @@ No one works eight hours straight. A day with four to six hours of tracked time 
 Oh, and yes, we don’t confuse the tracked time with “performance” or take it as a metric of success for a single team member or us as a company. Tracking more time doesn’t make you or us more productive per se. We try to keep it fair for everyone. For you, for the whole team, and our clients, that’s all.
 
 ## Your experience
-What’s your experience with time tracking? Is there anything that annoys you? Do you have an idea of how it can get more comfortable? [Share it with us on Twitter!](https://twitter.com/hanspagel)
+What’s your experience with time tracking? Is there anything that annoys you? Do you have an idea of how it can get more comfortable? [Share it with us on Twitter!](https://twitter.com/hanspagel/status/1326468288201826305)
