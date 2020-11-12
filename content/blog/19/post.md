@@ -1,9 +1,9 @@
 ---
-title: How we manage to be a remote company.
-teaser: From the very beginning, the home office was an essential part of our company's DNA, and we believe that empowering remote work should be the next step.
+title: How we manage to be a remote company
+teaser: From the very beginning, home office was an essential part of our company's DNA. Empowering remote work should be the next step.
 author: Philip Isik
 slug: remote-company
-published_at: 2020-11-10
+published_at: 2020-11-12
 ---
 
 First things first: Practicing remote work tells you a lot about the people, the culture, the processes, and the structures of a company. Remote work can result from a humble, respectful, and confident philosophy of how a company is treating its team.
@@ -32,12 +32,12 @@ Our company culture is less about physical benefits like a gym or a fridge full 
 
 ## Required things to practice remote work successfully
 
-If the company culture subserves remote work, you need smart structures and processes to run smoothly. You should define these together with your shared values in mind. Don't try to establish roles, structures, or systems, which don't fit your company culture. Nobody in your team wants that. 
+If the company culture subserves remote work, you need smart structures and processes to run smoothly. You should define these together with your shared values in mind. Don't try to establish roles, structures, or systems, which don't fit your company culture. 
 
 ### Sharing Knowledge
 
 One essential part is the definition of Standard Operating Procedures and documenting every process as a handbook because it reduces unnecessary communication and prevents silos of knowledge. There is another nice side effect: While you are writing all this stuff down, you think about it again, and maybe you will find ways to improve it.
-We try to write and maintain documentation for every critical task and decision taken in our self-built company wiki Skara. It contains the blueprint of the whole organization.
+We try to write and maintain documentation for every critical task and decision taken in our self-built company wiki [Skara](https://skara.io). It contains the blueprint of the whole organization.
 
 ### Communication
 
@@ -45,11 +45,11 @@ Asynchronous communication is necessary for remote work. It also gives everyone 
 
 ### Project Management
 
-Remote work needs smart but human project management that also pays attention to asynchronous communication. Working with agile project methods provides this benefit and allows you to measure productivity in a way that suits remote work. It's less how much time you spend in front of your computer, but more if you can complete your tasks. We're using scrumpy.io, which supports kanban or agile project methods, like scrum. 
+Remote work needs smart but human project management that also pays attention to asynchronous communication. Working with agile project methods provides this benefit and allows you to measure productivity in a way that suits remote work. It's less how much time you spend in front of your computer, but more if you can complete your tasks in a given time. We're using [Scrumpy](https://scrumpy.io) as project management tool, which supports kanban or agile project methods, like scrum. 
 
 ### Security and Data Privacy
 
-Protecting our personal and company data is a must-have, especially when working remotely. Everyone in our team has a company MacBook and, if needed, an iPad, which always should have installed the latest operating system, enabled password protection and disc encryption. It is forbidden to work on our personal computers. There are many more things to do, like informing and teaching everyone how to handle data privacy during their remote work to stay GDPR-compliant.
+Protecting our personal and company data is a must-have, especially when working remotely. Everyone in our team should have a company MacBook and, if needed, an iPad, which always should have installed the latest operating system, enabled password protection and disc encryption. There are many more things to do, like informing and teaching everyone how to handle data privacy during their remote work to stay GDPR-compliant.
 
 ### Workplace Setup
 
