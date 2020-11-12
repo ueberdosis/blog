@@ -33,10 +33,11 @@ If the company culture subserves remote work, you need smart structures and proc
 
 ### Sharing knowledge
 One essential part is the definition of Standard Operating Procedures and documenting every process as a handbook because it reduces unnecessary communication and prevents silos of knowledge. There is another nice side effect: While you are writing all this stuff down, you think about it again, and maybe you will find ways to improve it.
+
 We try to write and maintain documentation for every critical task and decision taken in our self-built company wiki [Skara](https://skara.io). It contains the blueprint of the whole organization.
 
 ### Communication
-Asynchronous communication is necessary for remote work. It also gives everyone full control over their time working and dramatically reduces interruptions. The result is more concentration and focus, which ends in less stressful working days. Indeed, asynchronous communication sounds more like a technical condition. Still, you have to shift your whole fricking organization culture and processes to support this kind of communication if you lead your company like a drill sergeant in our first example below.
+Asynchronous communication is necessary for remote work. It also gives everyone full control over their time and dramatically reduces interruptions. The result is more concentration and focus, which ends in less stressful working days. Indeed, asynchronous communication sounds more like a technical condition. Still, you have to shift your whole fricking organization culture and processes to support this kind of communication if you lead your company like a drill sergeant in our first example below.
 
 ### Project management
 Remote work needs smart but human project management that also pays attention to asynchronous communication. Working with agile project methods provides this benefit and allows you to measure productivity in a way that suits remote work. It’s less how much time you spend in front of your computer, but more if you can complete your tasks in a given time. We’re using [Scrumpy](https://scrumpy.io) as project management tool, which supports kanban or agile project methods, like scrum.
@@ -47,7 +48,7 @@ Protecting our personal and company data is a must-have, especially when working
 ### Workplace setup
 You should support the team to establish a comfortable and healthy workplace. For example, you can write a guide to set up the home office with the correct sitting position, eye-friendly lighting, desk location, etc. Everyone should be allowed to order necessary hardware for their home offices, such as large screens, keyboards, computers mouses, laptop stands, or headsets, paid for by the company.
 
-### Keep Socializing
+### Keep socializing
 If everyone is working in the office or working remotely, you can drive one strategy that suits all. But what happens if some people are working remotely, while some people are working in the office? There is a lot of water-cooler conversation in the office, which produces social glue. You have to ensure that the remote employees don’t lose the social connection to the office-based team. We try to handle this situation with weekly and monthly digital team events and voice communication channels, acting like our office corridor. We also try to talk a lot about our feelings and personal thoughts regarding various topics.
 
 ## Lesson learned
