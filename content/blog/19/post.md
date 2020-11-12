@@ -1,5 +1,5 @@
 ---
-title: Being a Remote Company
+title: Becoming a Remote Company
 teaser: From the very beginning, home office was an essential part of our company’s DNA. Empowering remote work should be the next step.
 author: Philip Isik
 slug: remote-company
@@ -34,7 +34,7 @@ If the company culture subserves remote work, you need smart structures and proc
 ### Sharing knowledge
 One essential part is the definition of Standard Operating Procedures and documenting every process as a handbook because it reduces unnecessary communication and prevents silos of knowledge. There is another nice side effect: While you are writing all this stuff down, you think about it again, and maybe you will find ways to improve it.
 
-We try to write and maintain documentation for every critical task and decision taken in our self-built company wiki [Skara](https://skara.io). It contains the blueprint of the whole organization.
+We try to write and maintain documentation for every critical task and decision taken in our self-built company wiki [Skara](https://skara.io). One day, it hopefully contains the blueprint of the whole organization.
 
 ### Communication
 Asynchronous communication is necessary for remote work. It also gives everyone full control over their time and dramatically reduces interruptions. The result is more concentration and focus, which ends in less stressful working days. Indeed, asynchronous communication sounds more like a technical condition. Still, you have to shift your whole fricking organization culture and processes to support this kind of communication if you lead your company like a drill sergeant in our first example below.
