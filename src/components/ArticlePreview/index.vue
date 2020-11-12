@@ -15,6 +15,9 @@
         <time :datetime="publishedAt">
           {{ formattedPublishedAt }}
         </time>
+        <template v-if="author">
+          by {{ author }}
+        </template>
       </p>
     </g-link>
   </article>
@@ -38,6 +41,10 @@ export default {
       type: String,
     },
     publishedAt: {
+      default: null,
+      type: String,
+    },
+    author: {
       default: null,
       type: String,
     },

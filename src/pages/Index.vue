@@ -9,6 +9,7 @@
         :publishedAt="edge.node.published_at"
         :teaser="edge.node.teaser"
         :link="edge.node.path"
+        :author="edge.node.author"
       />
 
     </Section>
@@ -25,6 +26,7 @@ query {
         title
         teaser
         published_at
+        author
         path
       }
     }
