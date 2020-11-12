@@ -3,7 +3,7 @@ title: Transparent Salaries
 teaser: People who are good negotiators earn more. However, we don’t see any reason why it should be that way. People have multiple skills, and there is no reason, that those specific skills should be the most significant factor for a salary.
 author: Hans Pagel
 slug: transparent-salaries
-published_at: 2020-11-12
+published_at: 2020-11-13
 ---
 
 What’s your salary? Don’t want to share it? You are not alone. People have a ton of reasons to avoid talking about money. Though, employers are the only ones benefiting from it. That’s why we all need to make it transparent.
