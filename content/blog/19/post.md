@@ -1,6 +1,6 @@
 ---
-title: How we manage to be a remote company
-teaser: From the very beginning, home office was an essential part of our company's DNA. Empowering remote work should be the next step.
+title: Being a Remote Company
+teaser: From the very beginning, home office was an essential part of our company’s DNA. Empowering remote work should be the next step.
 author: Philip Isik
 slug: remote-company
 published_at: 2020-11-12
