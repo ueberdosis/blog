@@ -36,6 +36,6 @@ We’re a small team here, with a lot of friendships across the group. No matter
 That’s why we’re on a mission to kill salary negotiations here.
 
 ## What we pay
-As a first step, we’re adding salary ranges to our job descriptions (for example, for the [frontend engineer](https://ueberdosis.io/frontend-engineer) we’re looking for). There is still a range, but that range isn’t about negotiation skills. It’s about the level of experience you gained already, and we’ll judge that based on comparing your experience with existing team members, together with team members.
+As a first step, we added salary ranges to our job descriptions (for example, for the [frontend engineer](https://ueberdosis.io/frontend-engineer) we’re looking for). There is still a range, but that range isn’t about negotiation skills. It’s about the level of experience you gained already, and we’ll judge that based on comparing your experience with existing team members, together with team members.
 
 That’s just a tiny change to make working with us even easier, better, and more inclusive. Share what you think about that [on Twitter](https://twitter.com/hanspagel)!
