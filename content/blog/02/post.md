@@ -22,7 +22,6 @@ But I want to do this. For the few people that take value out of it and just for
 Here it is: I’m going to publish one post every single day for 30 days. Monday to Friday. Can’t be that hard, can it?
 
 ## Update: List of posts
-
 1. [30 Posts](/post/30-posts/)
 2. [Stopping a Project](/post/stopping-a-project/)
 3. [Our Plan for tiptap 2](/post/our-plan-for-tiptap-2/)
@@ -40,3 +39,5 @@ Here it is: I’m going to publish one post every single day for 30 days. Monday
 15. [A Great Pull Request](/post/great-pull-requests)
 16. [Sponsoring tiptap](/post/sponsoring-tiptap/)
 17. [Time Tracking](/post/time-tracking)
+18. [Becoming a Remote Company](/post/remote-company/)
+19. [Transparent Salaries](/post/transparent-salaries/)
