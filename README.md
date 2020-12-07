@@ -6,9 +6,8 @@
 A blog with posts about our team, our products and the lessons we learned on our way. Use this repository to learn how to build a blog with Gridsome, point out typos or whatever you like.
 
 ## Development
-1. Install Gridsome CLI tool if you don't have `npm install --global @gridsome/cli`
-2. Install dependencies with `yarn install`
-3. And start the development server `yarn start`
+1. Install dependencies with `yarn install`
+2. And start the development server `yarn start`
 
 ## Deployment
 The main branch deploys to Netlify automatically.
