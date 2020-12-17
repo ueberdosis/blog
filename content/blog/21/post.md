@@ -42,5 +42,3 @@ Become our sponsor at [github.com/sponsors/ueberdosis](https://github.com/sponso
 
 ## ✍️ Our blog is growing, a little bit
 We started the perhaps 348th attempt of our blog in September. Indeed, producing blog articles continuously is not one of our skills and, let’s face it, nobody knows how long we’ll keep it up this time. But is it worth it writing our thoughts on the web? Double, indeed. The good news is that we have already had 8,000 page views on our blog in the last month. Seems like we write some kind of interesting stuff which gives us enough dopamine to continue for a while.
-
-Visit our blog at [blog.ueber.io](https://blog.ueber.io)
