@@ -1,6 +1,6 @@
 ---
 title: A new family member, an overblown Xmas party, and our open-source work
-teaser: This is it, our last update in this fricking year full of global challenges. Let's call it a day for this year, or as John Oliver says: “Fuck you, 2020”.
+teaser: This is it, our last update in this fricking year full of global challenges. Let's call it a day for this year, or as John Oliver says “Fuck you, 2020”.
 author: Philip Isik
 slug: ueber-news-december-2020
 published_at: 2020-12-17
