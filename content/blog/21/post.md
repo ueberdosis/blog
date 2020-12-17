@@ -10,7 +10,7 @@ This is it, our last update in this fricking year full of global challenges, cli
 
 But 2020 has also shown that the vast majority of people can adapt quickly to the new conditions, break with their habits and work together to find a way out when our lives are in danger. This gives us hope that we will also be able to handle the major challenges of our century.
 
-Let’s call it a day for this year, or as John Oliver from HBO says: “Fuck you, 2020.”
+Let’s call it a day for this year, or as John Oliver from HBO says: [“Fuck you, 2020.”](https://www.youtube.com/watch?t=490&v=EzlCOg-37hI)
 
 ## 🥳 Welcome Michael Becker!
 What lovely news just before the end of this year! We are more than proud to welcome Michael as a new part of our überdosis family. His skills as a web developer, his professional experience in successful digital companies and his calm and kind nature are a perfect match. It’s like we both swiped right on tinder!
