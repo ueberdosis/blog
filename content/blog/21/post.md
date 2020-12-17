@@ -17,7 +17,7 @@ What lovely news just before the end of this year! We are more than proud to wel
 
 If you want to know him, visit his [GitHub](https://github.com/seebaermichi) and [Twitter](https://twitter.com/seebaermichi) profile.
 
-## 🎄 The first remote über-Xmas party
+## 🎄 The first remote über Xmas party
 This was a very challenging year for us as a company too. Since the first lockdown in March, most of us have been working from home and some colleagues haven’t seen each other in real life for months. So we were all more than excited to have us for real at our Christmas party in December. But, thanks to the corona pandemic, we decided to make it a digital one this year.
 
 First, we ordered a pre-cooked three course menu from the “Café am Neuen See” home for everyone and had a video conference with the chef, who showed us in his private kitchen how to warm up and serve the three courses properly.
