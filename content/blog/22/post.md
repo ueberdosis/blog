@@ -3,7 +3,7 @@ title: Early access to tiptap 2
 teaser: From now on, all sponsors are invited to the all-new tiptap 2. New sponsors will receive a personal invite automatically.
 author: Hans Pagel
 slug: early-access-to-tiptap-2
-published_at: 2020-12-17
+published_at: 2021-01-12
 ---
 
 After a few months of intense development of tiptap 2, I’m proud of what we achieved. Philipp, and the whole team, is really doing an amazing job. The all-new tiptap is so much better than version 1, but I don’t want to talk too much here.
