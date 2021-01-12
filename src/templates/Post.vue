@@ -37,6 +37,32 @@ export default {
   metaInfo() {
     return {
       title: this.$page.post.title,
+      script: [{
+        type: 'application/ld+json',
+        json: {
+          '@context': 'https://schema.org',
+          '@type': 'NewsArticle',
+          'mainEntityOfPage': {
+            '@type': 'WebPage',
+            '@id': 'https://blog.ueber.io'
+          },
+          'headline': this.$page.post.title,
+          'datePublished': this.$page.post.published_at,
+          'dateModified': this.$page.post.published_at,
+          'author': {
+            '@type': 'Person',
+            'name': this.$page.post.author,
+          },
+          'publisher': {
+            '@type': 'Organization',
+            'name': 'überdosis',
+            'logo': {
+              '@type': 'ImageObject',
+              'url': 'https://blog.ueber.io/logo.jpg'
+            }
+          }
+        }
+      }],
       meta: [
         // General
         {
