@@ -1,6 +1,6 @@
 ---
 title: Time Tracking
-teaser: Our whole company is based on time tracking. While we can understand the love-hate relationship many people have with it, you shouldn’t overlook the benefits. Let’s go through a few things we learned about time tracking and how we make it less scary.
+teaser: While we can understand the love-hate relationship many people have with time tracking, you shouldn’t overlook the benefits.
 author: Hans Pagel
 slug: time-tracking
 published_at: 2020-11-11
