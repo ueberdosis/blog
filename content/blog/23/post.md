@@ -46,7 +46,7 @@ Life is more important than business. There shouldn’t be a good reason you don
 ## Tell what you expect in an application
 Let people know what you want to find in an application, and don’t add things you don’t even look at anyway.
 
-We are a small team and probably different in many regards, that’s why we like to see an excellent cover letter. You have to like how we tick. We need people who want to work ***with us*** and not people who ***want to work*** with us.
+We are a small team and probably different in many regards, that’s why we like to see an excellent cover letter. You have to like how we tick. We don’t need people who just want to work, we need people who want to work with us.
 
 ## Write down your application process
 Write down all steps an applicant has to take—bonus points for a realistic timeline.
