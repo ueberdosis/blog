@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html ${htmlAttrs}>
+  <head>
+    ${head}
+  </head>
+  <body ${bodyAttrs}>
+    ${app}
+    ${scripts}
+
+    ${process.env.NODE_ENV === 'production'
+      ? '<script async defer data-domain="blog.ueber.io" src="https://plausible.io/js/plausible.js"></script>'
+      : ''
+    }
+  </body>
+</html>
