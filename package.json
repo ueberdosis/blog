@@ -21,7 +21,7 @@
     "poly-fluid-sizing": "^1.1.0",
     "remark-html": "^13.0.1",
     "remark-parse": "^9.0.0",
-    "sass-loader": "^10.1.1",
+    "sass-loader": "^11.0.0",
     "unified": "^9.2.0"
   }
 }
