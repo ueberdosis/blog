@@ -153,6 +153,13 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+  box-shadow:
+    0 0px 2.2px rgba(0, 0, 0, 0.011),
+    0 0.1px 5.3px rgba(0, 0, 0, 0.016),
+    0 0.1px 10px rgba(0, 0, 0, 0.02),
+    0 0.2px 17.9px rgba(0, 0, 0, 0.024),
+    0 0.4px 33.4px rgba(0, 0, 0, 0.029),
+    0 1px 80px rgba(0, 0, 0, 0.04);
 }
 
 hr {
@@ -258,4 +265,16 @@ table {
 
 .intro {
   margin: 3rem 0;
+}
+
+.error-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+
+  a {
+    text-decoration: none;
+    opacity: 0.5;
+  }
 }
