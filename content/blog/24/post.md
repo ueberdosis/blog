@@ -57,14 +57,16 @@ They form a tiny but pretty active community, and we enjoy getting bug reports, 
 
 If you want to help shaping the future of tiptap or start building cool things with it right now, [become a sponsor](https://github.com/sponsors/ueberdosis) to get immediate access!
 
+We can’t wait to share a public beta with you in the next months. That’s why we are doing all this: To make a superb editor framework accessible to everyone.
+
 ## The public release
-**It took us a while, but now we know it tiptap 2 won’t be complete, ever. With every task we complete, we add four new ideas to our backlog. So when do we share it with the world?**
+**It took us a while, but now we know it. tiptap 2 won’t be complete, ever. With every task we complete, we add four new ideas to our backlog. So when do we share it with the world?**
 
-We have this very long list of ideas and want to make sure we can keep working on tiptap for the foreseeable future. Until now, we can still count on the strong backing of our company überdosis, which already funded more than 60,000 € of the development. That’s fine, and we don’t want that money back.
+We have this very long list of ideas and want to make sure we can keep working on tiptap for the foreseeable future. We can still count on the strong backing of our company überdosis, which already funded more than 60,000 € of the development. That’s fine, and we don’t want that money back.
 
-But we want to make sure it’s sustainable to continue building an amazing editor for you all. That’s why we set up the ambitious [goal of $5,000/month on GitHub](https://github.com/sponsors/ueberdosis) we’d like to reach before going public. Maybe it’s not too ambitious though. We are halfway there already!
+But we want to make sure it’s sustainable to continue building an amazing editor for you all in the long run. That’s why we set up the [ambitious sponsorship goal of $5,000/month on GitHub](https://github.com/sponsors/ueberdosis) we’d like to reach before going public. Maybe it’s not too ambitious though. We are halfway there already!
 
-**Are you able to help us with that? [Become a sponsor and help us shape the future of tiptap!](https://github.com/sponsors/ueberdosis)As a thank you, you’ll get immediate access to the private tiptap 2.0 beta!**
+**Are you able to help us with that? [Become a sponsor and shape the future of tiptap!](https://github.com/sponsors/ueberdosis) As a thank you, you’ll get immediate access to the private tiptap 2.0 beta!**
 
 Reaching our goal will ensure we can keep going with the development, answer all emails, issues, and support requests, keep everything up to date and develop new features and extensions.
 
