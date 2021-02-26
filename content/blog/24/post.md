@@ -14,6 +14,7 @@ Let’s go through a few impressive numbers first. The repository has nearly 9,0
 We already worked more than 800 hours on the new version. [128 sponsors (so cool!) are donating $2,033/month (wow!) on GitHub.](https://github.com/sponsors/ueberdosis) This is a huge motivation to keep working on it!
 
 ![the tiptap 2.0 logo](./tiptap-2.0-beta.png)
+<!-- <iframe src="https://tiptap-demo.netlify.app/" width="100%" height="300px" frameborder="0"> -->
 
 ## What’s new in 2.0?
 There’s a lot to talk about, but I’ll focus on the five most important points. Everything in this list started as an idea but is ready to use with the freshly tagged beta version.
@@ -59,20 +60,20 @@ If you want to help shaping the future of tiptap or start building cool things w
 
 We can’t wait to share a public beta with you in the next months. That’s why we are doing all this: To make a superb editor framework accessible to everyone.
 
-## The public release
+## How do I get access?
 **It took us a while, but now we know it. tiptap 2 won’t be complete, ever. With every task we complete, we add four new ideas to our backlog. So when do we share it with the world?**
 
 We have this very long list of ideas and want to make sure we can keep working on tiptap for the foreseeable future. We can still count on the strong backing of our company überdosis, which already funded more than 60,000 € of the development. That’s fine, and we don’t want that money back.
 
 But we want to make sure it’s sustainable to continue building an amazing editor for you all in the long run. That’s why we set up the [ambitious sponsorship goal of $5,000/month on GitHub](https://github.com/sponsors/ueberdosis) we’d like to reach before going public. Maybe it’s not too ambitious though. We are halfway there already!
 
-**Are you able to help us with that? [Become a sponsor and shape the future of tiptap!](https://github.com/sponsors/ueberdosis) As a thank you, you’ll get immediate access to the private tiptap 2.0 beta!**
+**Are you able to help us with that? [Become a sponsor and shape the future of tiptap!](https://github.com/sponsors/ueberdosis) As a thank you, you’ll get immediate access to the private repository and the all-new documentation!**
 
 Reaching our goal will ensure we can keep going with the development, answer all emails, issues, and support requests, keep everything up to date and develop new features and extensions.
 
 ## What do you think?
-Let us know what you think about all that! Comment in the [related issue on GitHub](https://github.com/ueberdosis/tiptap/issues/547), hit [Philipp](https://twitter.com/_philippkuehn) or [me](https://twitter.com/hanspagel) up on Twitter, or send an email to [humans@tiptap.dev](mailto:humans@tiptap.dev). We’re there to answer all your questions and hope you are excited as we are about the future of tiptap.
+Comment in the [related issue on GitHub](https://github.com/ueberdosis/tiptap/issues/547), hit [Philipp](https://twitter.com/_philippkuehn) or [me](https://twitter.com/hanspagel) up on Twitter, or send an email to [humans@tiptap.dev](mailto:humans@tiptap.dev). We’re there to answer all your questions and hope you are excited as we are about the future of tiptap.
 
-[BTW, tiptap has its own Twitter account now.](https://twitter.com/tiptap_editor)
+[By the way, tiptap has its own Twitter account now.](https://twitter.com/tiptap_editor)
 
-> Thanks to [@samwillis](https://github.com/samwillis), [@oodavid](https://github.com/oodavid), [@fourstacks](https://github.com/fourstacks), [@dmonad](https://github.com/dmonad) and [@holtwick](https://github.com/holtwick) for helping us on our way! And a big **THANK YOU** to every single sponsor who keeps us going!
+> A big **THANK YOU** to every single sponsor who keeps us going! And a very special thank you to [@samwillis](https://github.com/samwillis), [@oodavid](https://github.com/oodavid), [@fourstacks](https://github.com/fourstacks), [@dmonad](https://github.com/dmonad) and [@holtwick](https://github.com/holtwick) for helping us on our way! You are all amazing!
