@@ -73,6 +73,6 @@ Reaching our goal will ensure we can keep going with the development, answer all
 ## What do you think?
 Let us know what you think about all that! Comment in the [related issue on GitHub](https://github.com/ueberdosis/tiptap/issues/547), hit [Philipp](https://twitter.com/_philippkuehn) or [me](https://twitter.com/hanspagel) up on Twitter, or send an email to [humans@tiptap.dev](mailto:humans@tiptap.dev). We’re there to answer all your questions and hope you are excited as we are about the future of tiptap.
 
-[BTW, tiptap has it’s own Twitter account now.](https://twitter.com/tiptap_editor)
+[BTW, tiptap has its own Twitter account now.](https://twitter.com/tiptap_editor)
 
-> Thanks to [@samwillis](https://github.com/samwillis), [@oodavid](https://github.com/oodavid), [@fourstacks](https://github.com/fourstacks), [@dmonad](https://github.com/dmonad) and [@holtwick](https://github.com/holtwick) for helping us on our way! Also a big **THANK YOU** to every single sponsor who keeps us going!
+> Thanks to [@samwillis](https://github.com/samwillis), [@oodavid](https://github.com/oodavid), [@fourstacks](https://github.com/fourstacks), [@dmonad](https://github.com/dmonad) and [@holtwick](https://github.com/holtwick) for helping us on our way! And a big **THANK YOU** to every single sponsor who keeps us going!
