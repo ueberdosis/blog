@@ -14,7 +14,6 @@ Let’s go through a few impressive numbers first. The repository has nearly 9,0
 We already worked more than 800 hours on the new version. [128 sponsors (so cool!) are donating $2,033/month (wow!) on GitHub.](https://github.com/sponsors/ueberdosis) This is a huge motivation to keep working on it!
 
 ![the tiptap 2.0 logo](./tiptap-2.0-beta.png)
-<!-- <iframe src="https://tiptap-demo.netlify.app/" width="100%" height="300px" frameborder="0"> -->
 
 ## What’s new in 2.0?
 There’s a lot to talk about, but I’ll focus on the five most important points. Everything in this list started as an idea but is ready to use with the freshly tagged beta version.
@@ -59,6 +58,10 @@ They form a tiny but pretty active community, and we enjoy getting bug reports, 
 If you want to help shaping the future of tiptap or start building cool things with it right now, [become a sponsor](https://github.com/sponsors/ueberdosis) to get immediate access!
 
 We can’t wait to share a public beta with you in the next months. That’s why we are doing all this: To make a superb editor framework accessible to everyone.
+
+## Try it out!
+
+<iframe src="https://tiptap-demo.netlify.app/" width="100%" height="300px" frameborder="0"></iframe>
 
 ## How do I get access?
 **It took us a while, but now we know it. tiptap 2 won’t be complete, ever. With every task we complete, we add four new ideas to our backlog. So when do we share it with the world?**
