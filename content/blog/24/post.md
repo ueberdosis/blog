@@ -1,6 +1,6 @@
 ---
 title: Hello tiptap 2 beta!
-teaser: TODO
+teaser: After months of building tiptap 2.0, we’ve finally tagged its first beta version. I want to share a few of the most exciting changes with you.
 author: Hans Pagel
 slug: tiptap-2.0-beta
 published_at: 2021-03-01
