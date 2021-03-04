@@ -25,6 +25,10 @@ module.exports = function (api) {
       return null
     }
 
+    if (process.env.NODE_ENV !== 'production') {
+      return null
+    }
+
     opengraphImage = `static/images/${options.slug}.png`
 
     // console.log(`Found Post “${options.title}” in ${options.internal.origin} …`)
