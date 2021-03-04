@@ -40,6 +40,10 @@ module.exports = {
           title: 'überdosis blog',
           description: 'A digital product design agency, building own products & working for clients.',
           language: 'en',
+          // TODO: Should work, but doesn’t.
+          // https://github.com/onecrayon/gridsome-plugin-feed
+          // https://www.npmjs.com/package/feed
+          favicon: './src/assets/images/favicon.png',
         },
         // === All options after this point show their default values ===
         // Optional; opt into which feeds you wish to generate, and set their output path
