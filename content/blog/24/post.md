@@ -64,7 +64,7 @@ That was a lot of words already. Why don’t you try it out? But please, be nice
 
 <iframe src="https://tiptap-demo.netlify.app/" width="100%" frameborder="0"></iframe>
 
-And don’t forget the styling is totally up to you. It doesn’t have to look like the above example. That’s the joy of headless.
+This isn’t even a full-blown version, only the most common extensions are loaded. And don’t forget the styling is totally up to you. It doesn’t have to look like the above example. That’s the joy of headless.
 
 ## How do I get access?
 **It took us a while, but now we know it. tiptap 2 won’t be complete, ever. With every task we complete, we add four new ideas to our backlog. So when do we share it with the world?**
