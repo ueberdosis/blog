@@ -38,7 +38,8 @@ module.exports = {
         // See https://www.npmjs.com/package/feed#example for available properties
         feedOptions: {
           title: 'überdosis blog',
-          description: 'A digital product design agency, building own products & working for clients.'
+          description: 'A digital product design agency, building own products & working for clients.',
+          language: 'en',
         },
         // === All options after this point show their default values ===
         // Optional; opt into which feeds you wish to generate, and set their output path
@@ -74,7 +75,13 @@ module.exports = {
           return {
             title: node.title,
             date: node.published_at,
-            content: content
+            description: node.teaser,
+            content: content,
+            author: [
+              {
+                name: node.author,
+              },
+            ],
           }
         }
       }
