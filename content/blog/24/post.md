@@ -3,7 +3,7 @@ title: Hello tiptap 2 beta!
 teaser: After months of building tiptap 2.0, we’ve finally tagged its first beta version. I want to share a few of the most exciting changes with you.
 author: Hans Pagel
 slug: tiptap-2.0-beta
-published_at: 2021-03-01
+published_at: 2021-03-04
 ---
 
 After months of developing tiptap 2.0, we’ve finally tagged its first beta version. For now, it’s still private, but it’s definitely ready to build cool things with it. What we achieved feels already outstanding, and I want to share a few of the most exciting changes with you.
