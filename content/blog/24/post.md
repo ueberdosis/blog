@@ -46,7 +46,7 @@ Oh, by the way, did I mention that you are literally in full control over the st
 ### 4. Collaborative by heart
 **Add real-time collaboration, build offline-first apps, keep the content in sync over multiple devices or with hundreds of other users.**
 
-Add those capabilities to your editor will be a matter of minutes to hours, not days to months, thanks to the first-class integration of [Y.js](https://github.com/yjs/yjs) and a provided plug & play collaboration backend.
+Adding those capabilities to your editor will be a matter of minutes to hours, not weeks to months, thanks to the first-class integration of [Y.js](https://github.com/yjs/yjs) and a provided plug & play collaboration backend.
 
 If you haven’t heard of Y.js, no worries. The new documentation has a 10-minute guide with everything you need to know.
 
