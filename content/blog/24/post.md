@@ -60,8 +60,11 @@ If you want to help shaping the future of tiptap or start building cool things w
 We can’t wait to share a public beta with you in the next months. That’s why we are doing all this: To make a superb editor framework accessible to everyone.
 
 ## Try it out!
+That was a lot of words already. Why don’t you try it out? But please, be nice. The content of the editor is public and visible to other reads of the post.
 
-<iframe src="https://tiptap-demo.netlify.app/" width="100%" height="300px" frameborder="0"></iframe>
+<iframe src="https://tiptap-demo.netlify.app/" width="100%" frameborder="0"></iframe>
+
+And don’t forget the styling is totally up to you. It doesn’t have to look like the above example. That’s the joy of headless.
 
 ## How do I get access?
 **It took us a while, but now we know it. tiptap 2 won’t be complete, ever. With every task we complete, we add four new ideas to our backlog. So when do we share it with the world?**
