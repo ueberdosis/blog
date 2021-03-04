@@ -6,6 +6,12 @@ slug: our-plan-for-tiptap-2
 published_at: 2020-10-12
 ---
 
+<hr>
+
+**You probably want to read the [new post about tiptap 2.0](/post/tiptap-2-0-beta/).**
+
+<hr>
+
 With [tiptap](https://github.com/ueberdosis/tiptap) we built a renderless text editor for the Web. Today, it’s already used by thousands of developers, and we plan to release a completely new version of it. Here’s everything you need to know about the current state and the current roadmap.
 
 ## Who’s using it?

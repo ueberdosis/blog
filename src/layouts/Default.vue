@@ -32,6 +32,7 @@ query {
 <style lang="scss" src="~/assets/sass/main.scss"></style>
 
 <script>
+import iframeResize from 'iframe-resizer/js/iframeResizer'
 import PageFooter from '@/components/PageFooter'
 import Section from '@/components/Section'
 
@@ -41,6 +42,10 @@ export default {
     PageFooter,
     Section,
   },
+
+  mounted() {
+    iFrameResize()
+  }
 
 }
 </script>
