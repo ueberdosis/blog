@@ -1,5 +1,5 @@
 ---
-title: Why the heck we built Battleship
+title: Why the heck we built Battleship Teams
 teaser: The metamorphosis from a silly idea to a lovely product.
 author: Philip Isik
 slug: battleship-teams
@@ -23,12 +23,12 @@ This! Was! Impressive! Someone has to build it as a real browser game. We didn�
 ## Let’s create a browser game
 Pumped with the sweet juice of dopamine and sparkling eyes like little children have when cuddling with a puppy dog, we started a Battleship-hackathon. But we quickly realized that we were still missing a ton of designs and product decisions if we wanted to nail it. We decided to choose Timo as product owner, shift the project to our primary work time as an internal product, put one designer and two developers on it almost full-time, and defined a timeline for the first version, including a landing page.
 
-We outbid each other with all kinds of ideas in our kanban board until we decided to do a feature freeze to get the first version. Necessary extra time for product improvements to become an überdosis version of Battleship: + two weeks.
+We outbid each other with all kinds of ideas in our kanban board until we decided to do a feature freeze to get the first version. Necessary extra time for product improvements to become an überdosis version of Battleship Teams: + two weeks.
 
 ## What the hell have we done?
 ![Battleship Screenshot](./battleship-game.png)
 
-Six weeks later, we played Battleship in the browser for the first time with nine people, which felt overwhelming. Absolutely, we did it! Six wonderful weeks from a silly idea to a great product. Or, as one of the developers said: “Weird, it doesn’t feel like work, it feels more like coding with a friend on a fun project in my free time.”
+Six weeks later, we played Battleship Teams in the browser for the first time with nine people, which felt overwhelming. Absolutely, we did it! Six wonderful weeks from a silly idea to a great product. Or, as one of the developers said: “Weird, it doesn’t feel like work, it feels more like coding with a friend on a fun project in my free time.”
 
 Battleship seems like a game created by a team, which radically focused on the people who play it – in this case, themselves.
 
