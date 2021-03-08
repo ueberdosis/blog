@@ -1,12 +1,12 @@
 ---
-title: Why the heck we built Battleship.
+title: Why the heck we built Battleship
 teaser: The metamorphosis from a silly idea to a lovely product.
 author: Philip Isik
 slug: battleship-teams
 published_at: 2021-03-09
 ---
 
-## Folks, we have a problem.
+## Folks, we have a problem
 
 Pandemic-driven home office and COVID-19 blues are a massive dealbreaker for face-to-face socializing between employees, reducing their contacts. As a small office, we established a digital get-together every month besides our weekly jour fixe to maintain the personal connections.
 
@@ -18,11 +18,11 @@ Some online socializing sessions later, we got surprised by a well-designed Figm
 
 ![First Figma Draft](./battleship-draft.png)
 
-## Someone has to build this.
+## Someone has to build this
 
 This! Was! Impressive! Someone has to build it as a real browser game. We didn't even finish the sentence when four people already raised their hands and offered. It was one of those euphoric seconds when you feel the infinite momentum of this team.
 
-## Let's create a browser game.
+## Let's create a browser game
 
 Pumped with the sweet juice of dopamine and sparkling eyes like little children have when cuddling with a puppy dog, we started a Battleship-hackathon. But we quickly realized that we were still missing a ton of designs and product decisions if we wanted to nail it. We decided to choose a product owner, shift the project to our primary work time as an internal product, put one designer and two web developers on it almost full-time, and defined a timeline for the first version, including a landing page.
 
@@ -36,7 +36,7 @@ Six weeks later, we played Battleship in the browser for the first time with nin
 
 Battleship seems like a game created by a team, which radically focused on the people who play it – in this case, themselves.
 
-## LOL, those crazy weirdos.
+## LOL, those crazy weirdos
 
 Honestly, we invested a few hundred hours in this game and paid for it by ourselves. You don't make those kinds of decisions when you have an MBA. But was it worth every penny? It was! And would we do this again? We promise!
 
