@@ -10,7 +10,7 @@
   "dependencies": {
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.4",
-    "canvas": "^2.6.1",
+    "canvas": "^2.7.0",
     "gridsome": "^0.7.23",
     "gridsome-plugin-feed": "^1.0.2",
     "gridsome-plugin-simple-analytics": "^1.1.0",
