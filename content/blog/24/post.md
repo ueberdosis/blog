@@ -9,7 +9,7 @@ published_at: 2021-03-04
 After months of developing tiptap 2.0, we’ve finally tagged its first beta version. For now, it’s still private, but it’s definitely ready to build cool things with it. What we achieved feels already outstanding, and I want to share a few of the most exciting changes with you.
 
 ## Who’s using tiptap?
-Let’s go through a few impressive numbers first. The repository has nearly 9,000 stars on GitHub. Notable companies like GitLab, Statamic, and Apostrophe CMS (to name just a few) use tiptap 1 in their applications. The (currently awful) documentation has more than 60k page views/month. The package has more than 6,000,000 downloads in total. Isn’t that crazy?
+Let’s go through a few impressive numbers first. The repository has more than 9,000 stars on GitHub. Notable companies like GitLab, Statamic, and Apostrophe CMS (to name just a few) use tiptap 1 in their applications. The (currently awful) documentation has more than 60k page views/month. The package has more than 6,000,000 downloads in total. Isn’t that crazy?
 
 We already worked more than 800 hours on the new version. [164 sponsors (so cool!) are donating $2,884/month (wow!) on GitHub.](https://github.com/sponsors/ueberdosis) This is a huge motivation to keep working on it!
 
