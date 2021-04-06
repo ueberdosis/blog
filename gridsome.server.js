@@ -22,11 +22,11 @@ module.exports = function (api) {
   // Generate OpenGraph images for all Posts
   api.onCreateNode(options => {
     if (options.internal.typeName !== 'Post') {
-      return null
+      return
     }
 
     if (process.env.NODE_ENV !== 'production') {
-      return null
+      return
     }
 
     opengraphImage = `static/images/${options.slug}.png`
