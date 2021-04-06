@@ -3,7 +3,7 @@ title: A rough start in 2021
 teaser: "This year felt like an emotional rollercoaster so far: Colleagues come and go, we’ve got a new office and a few exciting projects to show."
 author: Philip Isik
 slug: first-update-of-2021
-published_at: 2021-03-31
+published_at: 2021-04-06
 ---
 
 To be honest, we had a rough start in 2021. The landlord discontinued our office rental agreement as of June. Covid-19 blues have delayed the beginning of new projects. Therefore, we had to touch our financial savings for the first time. And the prolongation of the second lockdown in Germany had an extra emotional strain on many of us.
