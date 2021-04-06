@@ -7,7 +7,7 @@
               {{ $static.metadata.siteName }}
             </g-link>
             <span class="o-page__description">
-              a team of lovely creatives
+              a digital product company
             </span>
           </Section>
 
