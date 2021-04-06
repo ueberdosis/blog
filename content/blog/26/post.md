@@ -1,6 +1,6 @@
 ---
-title: A rough start in 2021, a new family member and beautiful things to show
-teaser: 2021 feels like a roller coaster so far. Colleagues are leaving, and new ones are coming. We are changing offices and have new projects to show. Excited to see what comes next.
+title: A rough start in 2021
+teaser: "This year felt like an emotional rollercoaster so far: Colleagues come and go, we’ve got a new office and a few exciting projects to show."
 author: Philip Isik
 slug: first-update-of-2021
 published_at: 2021-03-31
@@ -10,9 +10,9 @@ To be honest, we had a rough start in 2021. The landlord discontinued our office
 
 But! Fortunately, we are back on track. We will move to our new office in April. It's just one floor above, and it still looks the same but has a small roof terrace. And even the delayed projects are running again.
 
-## 😭 If that wasn’t enough, there is another sad news.
+## If that wasn’t enough, there is another sad news
 
-Carin, our first employee at überdosis, has left us in February to pursue her passion as a foreign language correspondent. Since 2015, the very beginning of überdosis, Carin has been our Swiss Army Knife in Office Management. She developed a hell of a lot of processes with us, many of them are the backbone of our success today.
+Carin, our first employee at überdosis, has left us in February to pursue her passion as a foreign language correspondent. Since 2015, the very beginning of überdosis, Carin has been our Swiss Army Knife in office management. She developed a hell of a lot of processes with us, many of them are the backbone of our success today.
 
 Carin, you are and always will be in our hearts as our first employee. You started this crazy journey of überdosis with us, and it was more than a pleasure to have had you on board. We are so thankful for everything you have done for us, your trust, your loyalty, your honesty, and very especially your patience with us.
 
@@ -20,7 +20,7 @@ There are moments when there’s simply nothing to sugarcoat, and this is one of
 
 ![Dominik Biedebach](./dominik.png)
 
-## 👋 Welcome Dominik Biedebach!
+## Welcome Dominik!
 
 Wherever there is bad news, there is also good news. And so is the next one. We welcome Dominik with a very loving hug as a new part of our überdosis family!
 
@@ -30,11 +30,11 @@ If you want to know more about him, visit him on [Twitter](https://twitter.com/i
 
 ![tiptap 2 Demo Screenshot](./tiptap2.png)
 
-## ✨ Hello tiptap 2 private beta!
+## Hello tiptap 2 private beta!
 
 With more than six million downloads our text editor tiptap is already powering the text editing interface of hundreds of applications all over the web, including the apps of GitLab, Linear, Statamic, Nextcloud and many, many others.
 
-After eight months of intense work on a successor, it all takes shape. If you want to take it for a test drive, our recent blog post goes more into detail and even has an [interactive demo of the new version](https://next.tiptap.dev).
+After eight months of intense work on a successor, it all takes shape. If you want to take it for a test drive, our recent blog post goes more into detail and even has an [interactive demo of the new version](/post/tiptap-2-0-beta/).
 
 It’s still in a private beta, but with the backing of more than 200 sponsors we are about to hit our sponsorship goal on GitHub and plan to release a public version in the next weeks.
 
@@ -42,7 +42,7 @@ Want to talk with us about text editing, collaborative editing, documentation an
 
 ![Laserfocus Website Screenshot](./laserfocus.png)
 
-## Meet Laserfocus! It’s Salesforce, but without the bloat.
+## Meet Laserfocus! It’s Salesforce, without bloat.
 
 Indeed, this company name is as cool as ours, and so is the product designed by us. With Laserfocus, you have a user-friendly, smart and really performant interface on top of your messy Salesforce account. It’s all you need to focus on your job as a successful salesperson.
 
