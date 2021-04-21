@@ -57,7 +57,7 @@ A tiny, but very active community has formed around tiptap v2 already.
 
 [Join our Discord server to chit-chat, get help from the community, and share what you’ve built.](https://discord.gg/WtJ49jGshW)
 
-BTW, a big **THANK YOU** to every single sponsor who keeps us going! And a very special thank you to [@samwillis](https://github.com/samwillis), [@oodavid](https://github.com/oodavid), [@fourstacks](https://github.com/fourstacks), [@dmonad](https://github.com/dmonad), [@holtwick](https://github.com/holtwick) and [@lostdesign](https://github.com/lostdesign) for helping us on our way! You are all amazing!
+BTW, a big **THANK YOU** to every single sponsor who keeps us going! And a very special thank you to [@marijnh](https://github.com/marijnh) for building ProseMirror, the foundation of tiptap, [@samwillis](https://github.com/samwillis), [@oodavid](https://github.com/oodavid), [@fourstacks](https://github.com/fourstacks), [@dmonad](https://github.com/dmonad), [@holtwick](https://github.com/holtwick) and [@lostdesign](https://github.com/lostdesign) for helping us on our way! You are all amazing!
 
 ## Become a sponsor!
 We have this very long list of ideas and want to make sure we can keep working on tiptap for the foreseeable future. We can still count on the strong backing of our company überdosis, which already funded more than 100,000 € of the development. That’s fine. But we want to make sure it’s sustainable to continue building an amazing editor for you all in the long run. That’s why we set up the [ambitious sponsorship goal of $10,000/month on GitHub](https://github.com/sponsors/ueberdosis). Maybe it’s not too ambitious though. We are halfway there already!
@@ -75,3 +75,4 @@ But for today, that’s it. The public version of tiptap v2. Thanks for reading!
 * Here is the new documentation: https://www.tiptap.dev
 * GitHub repository: https://github.com/ueberdosis/tiptap
 * Join the discussion on Twitter: https://twitter.com/tiptap_editor
+* Discord Server: https://discord.gg/WtJ49jGshW
