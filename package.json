@@ -17,7 +17,7 @@
     "moment": "^2.29.1"
   },
   "devDependencies": {
-    "node-sass": "^5.0.0",
+    "node-sass": "^6.0.0",
     "poly-fluid-sizing": "^1.1.0",
     "remark-html": "^13.0.1",
     "remark-parse": "^9.0.0",
